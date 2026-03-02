@@ -1,0 +1,5 @@
+id,publisher,title,year,price,bib_id
+1,Addison-Wesley,Foundations of Databases,1995,,1
+2,Freeman,Principles of Database and Knowledge Base Systems,1998,55,1
+3,Addison-Wesley,Implementation of Databases,1998,,2
+4,Freeman,Principles of Database and Knowledge Base Systems,1998,100,2
