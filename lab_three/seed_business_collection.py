@@ -11,6 +11,7 @@ def main() -> None:
     # Create business collection if it has not been created already
     collection = db['business']
 
+    # Insert each business JSON
     with open('yelp_data/yelp_academic_dataset_business.json', 'r') as businesses_json_file:
         for raw_business_json in businesses_json_file:
             business: dict = json.loads(raw_business_json)
