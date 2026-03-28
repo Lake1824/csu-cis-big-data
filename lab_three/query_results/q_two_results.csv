@@ -1,0 +1,4494 @@
+city,stars,business_count
+Marrero,3.0,17
+Maplewood,3.5,17
+St Louis,1.5,12
+Gretna,5.0,10
+Verdi,2.5,4
+Skippack,3.0,4
+Saint Charles,3.5,39
+St.Ann,4.5,1
+Ozona,4.0,1
+Unionville,3.0,1
+River Ridge,1.5,1
+Fountainville,3.5,1
+Dunedin,1.5,2
+Media,4.0,62
+Bellmawr,2.5,4
+Darby,4.0,2
+ST. PETERSBURG,2.5,1
+Burlington,2.0,10
+West Chester,2.5,49
+WEST CHESTER,3.5,1
+Sappington,3.5,2
+Ashland City,2.5,2
+Hamilton,5.0,1
+Dover,4.5,3
+Ladue,3.0,4
+Claymont,4.0,9
+Levittown,4.0,49
+Washington Township,4.5,2
+Mt Laurel Township,2.5,1
+Noblesville,3.5,5
+Medford Lakes,4.5,2
+Voorhees,3.0,25
+Limerick,5.0,1
+Odessa,2.0,6
+Perkasie,4.0,11
+Hatboro,1.5,1
+CLIFTON HEIGHTS,2.0,1
+Lawrence,2.0,1
+Ballwin,5.0,7
+Redington Shores,3.0,1
+Wesley Chapel  FL,4.5,1
+Logan Township,3.5,2
+Fishers,2.0,23
+Saint Davids,3.0,1
+New Palestine,2.0,1
+Hilltown,5.0,1
+Valley Park,4.0,7
+Dunedin,3.0,30
+Delran Township,2.5,1
+Wayne/Radnor,3.5,1
+Lumberton,3.0,3
+Lansdale,2.0,18
+Montecito,4.5,21
+Maryland Heights,2.0,18
+Essington,3.5,3
+Santa Barbara,5.0,560
+East Lansdowne,2.5,1
+Chadds Ford,1.0,1
+Media,2.0,12
+Mantua Township,4.5,1
+St Albert,4.5,7
+Turnersville,5.0,1
+Ybor City,4.5,1
+Concord Township,3.0,1
+Haddon Heights,2.5,2
+New Britain,3.5,4
+Brentwood,2.0,27
+Springfield,1.0,3
+Brentwood,4.5,92
+Limerick,4.0,6
+Harvey,4.0,29
+St. Louis,2.5,78
+Zionsville,3.5,23
+St. Louis,4.0,192
+Eagleville,4.5,6
+NORRISTOWN,3.5,1
+Joelton,4.5,4
+Elmer,1.5,1
+Lawrenceville,4.0,1
+Arnold,5.0,6
+"Beech Grove,",4.5,1
+Exton,2.5,32
+Willingboro,4.0,7
+St. Albert,4.5,6
+West Berlin,2.5,5
+Town And Country,4.0,1
+Palmyra,4.0,4
+Philadelphia,2.5,864
+Indian Rocks Beach,3.0,8
+Pleasant View,1.5,3
+Saint Louis,2.5,264
+Upland,2.0,1
+Deptford,4.5,7
+Marrero,5.0,3
+Kuna,4.5,1
+Collingdale,3.5,2
+East Alton,2.0,1
+Ferguson,3.5,3
+Blvd,4.5,1
+Wayne,4.5,49
+Kennett Square,2.5,12
+DOWNINGTOWN,4.5,1
+Upland,4.0,1
+Verdi,4.0,5
+Catalina,1.5,1
+Williamstown,5.0,3
+Meridian,1.0,2
+McCordsville,3.0,3
+Mt Juliet,3.5,6
+Springfield,3.5,42
+Beverly,4.5,2
+Belle Meade,2.5,1
+Terrytown,3.5,5
+Redington Shores,4.5,7
+DONELSON,2.0,1
+Sun Valley,1.0,1
+Bridge City,4.0,1
+Kirkwood,2.0,7
+Pitman,3.5,9
+Palm Harbor,5.0,31
+Chester,2.5,6
+LOWER MERION,3.5,1
+Exton,4.5,25
+Belleair Bluffs,4.0,5
+South Madison,3.5,1
+Hazelwood,5.0,1
+St Pete Beach,2.5,6
+Williamstown,1.0,1
+Fairview Heights,2.0,11
+Hudson,4.5,15
+Morton,3.5,7
+Swedesboro,3.5,10
+Frontenac,4.0,2
+Chester Springs,4.5,9
+Ballwin,4.5,25
+King Of Prussia,3.5,19
+Isla Vista,4.0,22
+Hatboro,4.0,22
+Red Hill,4.5,1
+Thonotosassa,3.5,6
+Quakertown,3.5,9
+Glen Carbon,1.5,1
+Saint Ann,2.0,6
+Richboro,2.5,11
+Enoch,3.0,3
+Marana,5.0,3
+Jeffersonville,2.0,1
+Twin Oaks,2.5,1
+Broomall,4.5,20
+Cahokia,4.0,2
+Broomall,3.0,13
+Feasterville-Trevose,2.5,4
+Citrus Park,3.5,3
+Boyertown,3.0,1
+Saint Charles,1.5,7
+Whitestown,2.5,4
+Smithton,4.0,1
+Delran,1.5,2
+Upper Merion Township,3.0,1
+Manayunk,4.5,3
+Linfield,4.0,1
+East St. Louis,1.0,1
+Boise City,3.5,1
+Virginia City,3.5,1
+Holland,4.5,4
+Clearwater Beach,1.5,2
+Reno,1.0,19
+Granite City,2.5,3
+Town 'n' Country,5.0,2
+Roslyn,3.0,1
+Doylestown,4.5,50
+Essington,4.5,7
+Palm Harbor,3.5,82
+Saint John,2.5,1
+Quakertown,3.0,2
+Clearwater Beach,2.5,8
+Bristol,2.0,3
+Conshohocken,2.0,13
+Pottstown,5.0,4
+Pennsburg,2.0,1
+Glassboro,3.0,19
+Haddon Township,2.5,3
+Santa Clara,2.0,1
+St. Charles,4.5,13
+San Antonio,2.0,1
+Eastampton,4.0,1
+Erial,4.5,1
+Newton Square,3.5,1
+Port Richey,5.0,2
+Maple Shade Township,3.5,2
+Philadephia,3.5,1
+Pinellas Park,5.0,15
+Kenner,2.0,49
+West Point,4.5,1
+Collinsville,3.0,14
+Waterford Works,4.5,3
+Mantua,3.5,2
+Newark,3.5,50
+Earth City,3.0,2
+Warrington,3.5,21
+West Deptford,2.0,5
+Feasterville-Trevose,5.0,4
+St Petersburg,4.5,52
+Saint Pete Beach,2.0,1
+Williamstown,4.0,10
+Skippack,4.0,6
+Trolley Square,4.0,1
+Tarpon Springs,4.5,69
+Claymont,3.5,6
+Primos,3.0,1
+Westville,4.0,5
+Mount Laurel,5.0,11
+Ridley Township,4.5,1
+Aston,1.5,3
+Newark,2.0,26
+Penns Grove,4.0,5
+Turnersville,2.5,16
+Montchanin,4.0,3
+Yeadon,2.0,1
+Bellevue,4.5,2
+Abington,1.5,3
+Fairless Hills,5.0,2
+Garnet Valley,4.5,4
+Penn Valley,4.5,1
+Lebanon,1.5,1
+Bosie,3.5,1
+Conshohoeken,3.5,1
+St Pete Beach,5.0,7
+St Charles,5.0,5
+Maryville ,4.5,1
+Merchantville,4.0,7
+Sahuarita,2.5,9
+Wyncote,2.0,6
+Spring City,5.0,3
+Antioch,3.0,20
+boise,5.0,1
+Fairview Heights,1.5,7
+Hamilton Township,2.5,2
+Brentwood - Cool Springs,4.0,1
+Sicklerville,5.0,2
+Ofallon,2.5,1
+Santa Barbara,4.0,623
+Pottstown,2.0,23
+Plymouth Meeting,2.5,20
+Glenolden,5.0,2
+LANGHORNE,4.5,1
+Pinellas Park,1.0,4
+Sherwood Park,4.5,14
+MEDIA,3.5,1
+Edwardsville,2.5,10
+Plymouth Meeting,1.0,1
+Odessa,1.0,1
+Saint Petersburg,1.5,38
+St Pete Beach,4.5,14
+Washington Park,4.0,1
+Gulfport,3.5,12
+Hazelwood,3.5,14
+ST. Louis,4.0,1
+Greenville,4.5,2
+Collingdale,5.0,1
+Marlton,4.5,36
+Newtown,4.5,41
+Kenner,5.0,11
+St Charles,2.0,2
+Newtown Square,4.0,30
+Warrington,4.5,14
+Prospect Park,3.5,6
+Maple Shade Township,3.0,3
+Swedesboro,2.0,5
+Norritown,3.5,1
+Goleta,2.0,32
+Clarksboro,4.5,1
+Belleville,4.5,25
+Beaumont,4.5,1
+Wimauma,4.5,2
+Imperial,3.0,6
+Zieglerville,2.5,1
+Buckingham,5.0,2
+Castleton,5.0,1
+Clearwater,3.0,168
+Collingswood,3.0,10
+Huntingdon Valley,4.5,28
+Mascoutah,2.5,2
+Valley Forge,5.0,1
+Chalmette,4.0,15
+Violet,4.0,1
+Hamilton,3.5,4
+High Ridge,5.0,1
+Edgewater Park,2.0,1
+Sunset Hills,1.5,2
+Boise City,4.5,1
+St. Pete Beach,3.5,34
+Phoenixville,4.5,54
+Gladwyne,4.5,1
+Chicago,5.0,1
+Oxnard,4.5,1
+Malaga,3.0,1
+Hazelwood,1.0,1
+Pennsylvania,4.0,1
+Bensalem Township,3.0,1
+Oro Valley,3.0,29
+Westville,2.5,2
+Joelton,3.5,4
+Oreland,2.0,1
+King Of Prussia,5.0,2
+Nolensville,1.5,1
+Florence Township,3.0,1
+Hamilton,4.5,8
+Mt. Laurel,2.0,1
+Franklin,1.0,8
+Valley Park,3.5,7
+Smithton,5.0,1
+Plymouth Meeting,1.5,5
+Hartford,3.0,1
+Phila,3.5,2
+NEW ORLEANS,4.0,1
+New Castle,3.0,20
+Clifton Heights,2.0,6
+Frazer,1.5,1
+Mt Holly,2.5,1
+Harleysville,1.0,1
+Delanco,3.5,1
+Edgmont,4.0,1
+NW Edmonton,3.0,1
+Richmond Heights,4.5,9
+Godfrey,2.5,1
+Ewing Township,1.5,1
+Williamstown,3.5,14
+Fort Washington,2.0,5
+Villanova,3.5,3
+Oaks,4.0,4
+Maplewood,3.0,10
+TRINITY,2.5,1
+Clifton Heights,3.5,12
+Langhorne,4.0,34
+Chestnut Hill,5.0,2
+Redington Shores,3.5,5
+Franklin,4.5,139
+Pennington,4.0,2
+New Port Richey,3.0,46
+Lansdale,3.0,33
+Granite City,5.0,1
+Southampton,4.5,22
+Burlington,2.5,14
+Crystal Beach,5.0,1
+Paoli,1.5,3
+Oaks,2.5,6
+Boyertown,4.5,7
+Trevose,5.0,2
+Tierra Verde,3.5,2
+Earth City,1.5,4
+Oldsmar,2.0,11
+Williamstown,2.5,10
+St. Louis,4.5,214
+Town and Country ,4.0,1
+Luling,2.5,1
+Philiadelphia,1.5,1
+Glendora,3.0,1
+Horsham,4.0,27
+Lawrence Township,4.0,2
+Saint Bernard,5.0,1
+St. Pete Beach,2.0,2
+Chadds Ford,5.0,5
+Belleville,4.0,34
+North Redington Bch,3.5,1
+St. Louis,1.0,11
+Swansea,4.5,4
+Cheltenham,4.0,2
+Clearwater Beach,4.5,24
+Wallingford,4.5,3
+West Berlin,4.5,4
+Riverton,3.0,2
+Dover,3.0,1
+Mount Royal,3.5,1
+West Chester,3.0,55
+Perkiomenville,1.5,2
+Summerland,5.0,5
+Ambler,2.0,2
+Buckingham,3.0,1
+Ballwin,2.5,19
+Feasterville Trevose,3.5,7
+Ardmore,5.0,18
+Goleta,1.5,9
+Lafayette Hill,5.0,3
+Valley Park,2.0,3
+Clearwater Beach,3.0,16
+Mission Canyon,4.5,1
+Kings Beach,5.0,1
+erdenheim,3.5,1
+Kenneth City,1.5,1
+Dade City,2.0,1
+Souderton,5.0,2
+Safety Harbor,4.0,19
+Mansfield,3.5,1
+Rose Valley,4.0,1
+Imperial,4.5,4
+Metairie,2.5,128
+Exton,3.5,73
+Deptford,5.0,2
+santa Barbara,4.5,1
+Hatfield,4.0,13
+Pennsburg,1.5,2
+Folsom,4.5,12
+Voorhees,1.0,2
+Tampa Bay,3.0,5
+West Berlin,2.0,1
+Clayton,2.0,2
+Evesham,5.0,1
+Belleville,2.5,19
+Chester,5.0,1
+Bellevue,3.0,5
+Maryville,3.5,6
+Conshohocken,3.5,46
+Beech Grove,3.5,4
+Bordentown,2.5,15
+Philadelphila ,4.5,1
+Gibbstown,4.0,1
+lutz,5.0,1
+O'Fallon,4.5,15
+Carpinteria,2.0,8
+Brentwood ,4.5,1
+Bensalem,2.0,26
+Feasterville Trevose,5.0,2
+Riveridge,2.5,1
+Land O' Lakes,3.5,12
+O'Fallon,3.0,26
+Boothwyn,3.5,4
+Pilesgrove,3.0,2
+West Bradford Township,3.0,1
+Carmel,4.5,145
+Seminole,2.5,27
+Dublin,2.5,2
+Eagleville,2.0,2
+Millstadt,4.5,2
+Lansdale,1.5,9
+Frazer,2.5,2
+Gretna,2.5,14
+Pleasant View,2.0,2
+Smyrna,2.5,34
+Town 'n' Country,4.5,2
+Danville,5.0,2
+San Antonio,3.5,1
+Florence,3.0,2
+Vail,5.0,2
+Land O Lakes,4.0,10
+Christiana,3.0,5
+South Pasadena,4.0,9
+Indian Rocks Beach,4.5,17
+Trevose,4.5,3
+Havertown,3.0,22
+Broomall,3.5,19
+Zephyrhills,3.0,9
+Fenton,2.0,20
+Burlington,1.0,2
+Saint Charles,4.0,52
+Drexel Hill,2.5,13
+Redington Shores,5.0,2
+Souderton,3.0,8
+Feasterville,3.0,10
+Land O' Lakes,2.5,4
+Morrisville,3.5,14
+Belleair Bluffs,4.5,7
+Secane,3.5,3
+Newtown Square,2.0,4
+Dupo,3.0,1
+Quakertown,1.5,2
+Chalfont,2.0,5
+North Redington Beach,3.0,3
+Somerdale,3.0,2
+Apollo Beach,3.5,19
+O Fallon,2.5,6
+Lawrence,4.5,1
+Lima,3.0,1
+Cinnaminson,3.0,13
+Lawrence Township,3.0,1
+Beech Grove,1.5,1
+Dresher,3.5,5
+Elkins Park,2.5,2
+Sherwood Park,3.5,30
+Ashland City,3.0,3
+Voorhees,4.0,37
+Goleta,4.5,127
+Swansea,3.0,8
+Pontoon Beach,2.0,2
+Town And Country,1.5,1
+Merchantville,3.0,1
+Centreville,3.0,1
+Noblesville,4.0,4
+Valrico,1.5,3
+Atco,3.0,2
+Collegeville,4.0,37
+Florissant,1.5,13
+Fishers,4.0,97
+Elkins Park,1.0,1
+University City,5.0,2
+Ashland City,4.0,3
+Tarpon Springs,4.0,54
+Pennington,3.0,1
+Feasterville,1.5,2
+Kirkwood,1.5,5
+Spring Hill,2.5,27
+Linfield,3.5,2
+Des Peres,1.5,1
+Lower Southampton Township,3.5,1
+Old Hickory,4.0,13
+Atco,4.0,3
+Woodstown,4.5,2
+West Mount Holly,3.5,1
+Kenneth,4.0,1
+Gulph Mills,3.5,1
+Pottstown,3.0,26
+Wesley Chapel,1.5,9
+O'fallon,4.0,2
+King Of Prussia,3.0,19
+Magnolia,2.5,6
+Sahuarita,4.5,5
+Saint Ann,2.5,1
+Medford Lakes,4.0,1
+Ewing,2.5,4
+Affton,4.5,6
+Swarthmore,3.0,3
+Collegeville,2.0,6
+Marana,4.0,15
+Mt. Laurel,3.5,1
+Mantua,4.0,3
+Newark,4.0,52
+Mount Laurel Township,4.5,1
+Sun City Center,4.0,4
+North Wales,1.0,2
+Talleyville,4.5,1
+Ruskin,5.0,2
+Newark,2.5,45
+Fishers,5.0,26
+Souderton,4.0,15
+Pennsauken,4.5,16
+Richboro,5.0,1
+Norristown,1.0,3
+Lumberton,1.5,4
+Boyertown,4.0,9
+Silverdale,3.5,1
+Lahaska,4.5,5
+St. Albert,3.0,3
+Audubon,4.5,14
+Glenmoore,4.0,3
+Royersford,3.0,20
+O'Fallon,1.0,1
+Feasterville-Trevose,2.0,6
+Wilmington,4.0,194
+Croydon,2.5,3
+Alton,1.5,2
+Holiday,4.5,10
+Pinellas park,5.0,1
+Shrewsbury,1.0,1
+Haddon Heights,4.0,9
+Bucks,4.0,2
+Spring House,2.5,2
+Verdi,3.5,3
+Edmonton City Centre,4.0,1
+Chalmette,3.5,16
+Hazelwood,4.0,4
+Waterford Works,5.0,1
+Olivette,3.0,3
+Overbrook,5.0,1
+WILLOW GROVE,2.5,1
+Harrison Township,3.0,2
+Sparks,2.0,68
+O Fallon,4.0,5
+Normandy,1.5,1
+Affton,3.0,5
+Palm Harbor,2.5,26
+Berlin,1.5,3
+Ivyland,5.0,2
+Pinellas,5.0,1
+Goodlettsville,1.5,7
+Merchantville,2.5,1
+Indian Shores,3.5,4
+Milmont Park,3.5,1
+Maple Shade,5.0,6
+St. Petersburg,1.0,3
+Lawnside,1.5,1
+Collinsville,1.0,1
+Blooming Glen,4.5,1
+Woodlyn,3.5,3
+Oro Valley,5.0,14
+Pennsauken Township,3.0,3
+Riverview,3.0,58
+Mount Ephraim,3.5,8
+Manchester,2.0,5
+Temple Terrace,3.0,16
+Arabi,3.0,2
+Thornton,3.5,1
+Kenner,1.5,27
+Yorklyn,4.5,1
+Thorofare,4.0,1
+Edmonton,2.5,274
+Langhorne,1.5,12
+Medford,2.5,7
+Luling,4.0,1
+Ybor City,5.0,1
+Chalfont,5.0,4
+Lahaska,3.5,7
+Delran,4.0,7
+Bryn Mawr,4.5,45
+Woodson Terrace,3.5,1
+Pennsville,4.5,2
+Chesterfield,3.0,16
+Harleysville,1.5,1
+Mt. Laurel,4.5,3
+Phila,1.5,2
+Springfield,4.5,32
+New Orleans,5.0,412
+Saint Albert,5.0,1
+Plainfield,1.5,9
+Jenkintown,4.5,29
+Huntingdon Valley,3.0,12
+East Norriton,5.0,2
+Lansdowne,4.0,12
+Croydon,3.5,3
+Philadephia,4.5,1
+Town and Country,2.5,1
+West Deptford,3.0,3
+Mt. Juliet,5.0,3
+Royersford ,4.5,1
+Edmonton,4.5,413
+Fenton,2.5,27
+Willingboro Township,3.5,1
+Lansdowne,3.5,6
+Brooklawn,2.0,1
+SAINT LOUIS,1.5,1
+Chester,3.0,3
+Green Hills,4.5,1
+Violet,5.0,1
+Tampa - South,4.0,1
+Plainfield,1.0,2
+Metairie,3.0,157
+Maplewood,5.0,9
+Darby,2.5,1
+Goodlettsville,4.0,21
+Medford,1.5,3
+St. Rose,3.5,1
+West Trenton,4.5,1
+Bayonet Point,4.0,1
+Berlin,5.0,1
+Exton,1.5,12
+Maple Glen,2.0,1
+Yardley,2.0,1
+Atco,1.5,1
+Washington Crossing,4.5,6
+Hudson,3.5,26
+Saintt Petersburg,4.5,1
+Cherry Hill,2.0,45
+Spring Hill,3.5,51
+Gibsonton,2.5,2
+Winterthur,4.0,1
+Plant City,2.5,15
+Feasterville-Trevose,3.0,5
+Avondale,3.5,3
+Kenner,4.5,52
+Elsmere,4.5,1
+Waterloo,3.5,4
+Reno,1.5,97
+Dupo,5.0,2
+Harvey,3.5,33
+Lumberton,4.0,5
+Williamstown,4.5,8
+Clementon,2.0,2
+Clarksville,4.0,1
+Marlton,5.0,13
+Ivyland,3.5,3
+Danville,2.0,1
+Holland,2.0,1
+Old Hickory,3.0,5
+Jenkintown,5.0,10
+Haddon Township,3.5,8
+Tarpon springs,3.5,1
+Danville,4.5,1
+"Mount Holly,",3.5,1
+Brooklawn,5.0,1
+St Ann,3.5,1
+Sahuarita,4.0,2
+Belleair Beach,4.5,1
+Medford,5.0,4
+Mt. Ephraim,3.5,1
+Port Richey,4.5,20
+Royersford,5.0,4
+Carmel,5.0,51
+Mount Laurel,1.5,11
+Cherry Hill,4.5,95
+OFallon,3.5,2
+Metairie,2.0,68
+Eagleville,5.0,2
+Malvern,4.5,35
+University City,2.5,8
+Lebanon,3.5,5
+Odessa,5.0,8
+Thorndale,4.0,4
+Carpinteria,3.5,23
+Bensalem,1.5,10
+Williamstown,1.5,4
+Wesley Chapel,5.0,20
+Stowe,4.5,1
+Limerick,2.0,2
+Fort Washington,3.5,9
+Langhorne,3.0,41
+Avon,3.5,41
+Tampa,5.0,423
+Malaga,4.0,4
+Blue Bell,4.5,17
+Carneys Point,2.5,1
+Ferguson,4.5,6
+Holmes,4.5,2
+Columbia,4.0,6
+Oldsmar,1.0,1
+St Louis,2.0,18
+Cheltenham,3.0,2
+Mount Holly,4.0,17
+Joelton,1.5,1
+Willingboro Township,3.0,1
+Warminster,3.5,34
+St Charles,1.0,2
+West Berlin,3.0,13
+Old Hickory,1.5,3
+Boise,1.5,38
+Green Valley,4.5,2
+Glen Mills,4.5,23
+Mascoutah,4.0,2
+Collegeville,4.5,21
+Pinellas Park,3.0,39
+Mccordsville,3.5,1
+Washington Crossing,2.5,1
+Port Richey,2.5,20
+Haddon,4.5,2
+Sherwood Park,2.0,5
+Cherry Hill,4.0,135
+Kulpsville,4.0,1
+Springfield,2.0,28
+Downingtown,4.0,36
+Pottsgrove,2.5,1
+Harrison Township,4.0,2
+Royersford,1.5,4
+Seffner,2.5,9
+Carpinteria,2.5,19
+Eastampton,2.5,1
+South Pasadena,1.5,3
+Berwyn,3.0,13
+Medford,3.5,26
+St. Pete Beach,3.0,20
+Sahuarita,3.0,6
+Tierre Verde,4.5,1
+Radnor,3.5,3
+Alton,4.0,18
+Spring House,3.0,2
+Dover,1.5,1
+Plumsteadville,3.5,3
+Monroe Township,4.5,1
+Oaks,3.5,6
+Westampton,3.5,4
+Radnor,4.0,5
+Salem,4.5,2
+Berlin,2.5,4
+Riverview,5.0,24
+St Albert,4.0,9
+Mount Juliet,4.5,26
+Levittown,2.5,16
+Chester,1.5,2
+Westmont,4.5,4
+Troy,4.5,2
+Pennsauken Township,4.5,6
+Valrico,2.5,18
+Narberth,3.0,11
+McCordsville,5.0,1
+Sharon Hill,2.0,3
+Drexel Hill,2.0,6
+Voorhees Township,5.0,3
+Bethel Township,3.0,1
+Isla Vista,4.5,11
+Caseyville,4.0,1
+Dresher,1.5,1
+Collingswood,1.5,2
+Line Lexington,4.5,1
+Madeira Beach,5.0,9
+Chester Springs,5.0,4
+Isla Vista,2.5,12
+Cedars,3.5,1
+Souderton,2.5,10
+Spring Hill,1.5,2
+Mt Juliet,3.0,4
+Westville,3.0,2
+Avon,2.0,18
+Arnold,3.5,18
+Plant City,5.0,6
+Exton,5.0,7
+Marlton,1.0,2
+Land O' Lakes,3.0,10
+St. Albert,5.0,1
+University City,4.0,18
+Spring House,3.5,6
+Lower Merion,2.0,1
+Lahaska,2.5,3
+Lemay,2.0,1
+Meridian,3.5,156
+Wyndmoor,5.0,3
+Holmes,4.0,2
+Evesham Township,4.0,6
+Huntingdon Valley,4.0,25
+Gloucester Township,3.0,2
+Plant City,3.0,20
+Wallingford,4.0,2
+Montgomeryville,5.0,2
+Vail,3.5,8
+Lithia,3.5,13
+Holicong,4.0,1
+Dunedin,4.5,102
+Wilmington ,5.0,1
+Lithia,4.0,7
+West Chester,4.0,132
+Woodstown,2.5,2
+Spring City,2.0,1
+Phoenixville,5.0,13
+Saint Ann,3.0,3
+Sauget,1.5,1
+Cahokia,3.0,1
+West Conshohocken,3.5,2
+Fairview Hts,3.5,1
+Gibbsboro,4.0,2
+Stowe,1.5,2
+Oaklandon,4.5,1
+Feasterville Trevose,2.0,3
+Avon,2.5,27
+Dunedin,3.5,58
+Kuna,4.0,2
+Chesterfield,1.5,2
+Columbia,3.5,11
+Indian Rocks Beach,2.5,2
+Lawrence Township,4.5,3
+Treasure Is,3.0,1
+Hockessin,3.0,9
+Titusville,4.5,1
+West Norriton,4.5,1
+Wynnewood,2.0,5
+Bensalem,4.0,45
+O'fallon,2.5,2
+Voorhees,5.0,4
+Feasterville Trevose,1.5,3
+Riverside,4.5,3
+King Of Prussia,2.5,20
+Valley Park,5.0,7
+Tarpon Springs,2.0,12
+Winslow Township,4.0,2
+Boise,1.0,12
+Mount Holly,1.5,2
+McCarran,4.5,1
+Mt Laurel Township,4.0,1
+Bradenton,5.0,1
+Madison,2.5,28
+Fairland,4.5,1
+Talleyville,3.5,2
+Folsom,3.0,8
+Green Lane,4.5,2
+Cheltenham Township,4.0,2
+Royersford,2.5,13
+Somerdale,2.5,5
+Southwest Philadelphia,3.0,1
+Abington,4.0,16
+Fairview,3.0,1
+Ardmore,1.5,3
+Skippack Village,3.0,2
+Crestwood,3.0,1
+Radnor,2.0,1
+Folcroft,3.5,5
+Norristown,3.5,48
+Pennsburg,4.5,1
+Lansdowne,4.5,15
+Churchville,3.0,2
+O'Fallon,2.5,9
+Lederach,5.0,1
+Marana,4.5,11
+Town & Country,3.5,1
+Bensalem,3.5,54
+Woodbury Heights,4.5,1
+Saint Charles,2.0,19
+Chesterfield,5.0,7
+Wyncote,3.5,8
+Wood River,4.0,5
+Newtown Square,4.5,25
+Wood River,3.5,6
+Whitestown,3.5,8
+Mt. Laurel,3.0,5
+Pilesgrove,4.0,3
+St Charles,4.0,17
+Hamilton,4.0,8
+Speedway,4.0,5
+Richmond Heights,3.0,11
+Voorhees Township,2.5,4
+Palmetto,4.0,2
+Haddonfield,2.0,4
+Treasure Island,5.0,7
+Madeira Beach,1.5,2
+Flanders,3.0,1
+Hudson,1.5,2
+Lindenwold,4.0,6
+Mt. Juliet,3.5,7
+Mullica Hill,4.0,9
+Hatboro,3.0,11
+Plant City,3.5,30
+"Mt Laurel Twp, NJ",3.5,1
+Gloucester Township,4.5,3
+Bryn Athyn,5.0,1
+Saint Rose,2.0,1
+New Orleans,4.5,1157
+Mount Laurel Township,3.5,1
+Morrisville,4.5,15
+Gulfport,3.0,7
+Ladue,4.5,1
+Fort Washington,4.0,12
+goodlettsville,3.0,1
+Westchase,5.0,1
+Elmwood,4.5,3
+Lafayette Hill,2.5,2
+Manayunk,4.0,1
+Pennsauken,5.0,6
+Worcester,3.5,2
+Oro Valley,4.5,36
+Lutz,2.5,38
+Newtown,2.5,14
+Hainesport,2.5,3
+Meridan,3.0,1
+Manchester,5.0,1
+Spanish Springs,2.5,1
+Mount Lemmon,3.0,2
+Frazer,4.5,3
+Elfers,2.0,1
+Pasco,4.5,1
+Webster Groves,3.0,10
+Holland,3.0,2
+Paoli,5.0,8
+Voorhees Township,2.0,2
+Zephyrhills,4.0,8
+Souderton,2.0,1
+Columbia,3.0,1
+Buckingham Township,4.0,1
+Merchantville,3.5,7
+Sahuarita,2.0,4
+Conshohocken,4.0,45
+Jefferson,4.0,13
+Belle Chase,3.0,1
+Seminole,3.5,39
+Oakville,2.0,1
+Nashville ,5.0,1
+Marlton,3.5,72
+Sparks,3.5,203
+Pottstown,1.5,8
+Bordentown,4.5,11
+Kuna,3.0,1
+Maple Glen,1.5,1
+Jenkintown,1.0,1
+St. Davids,3.5,1
+Harahan,5.0,4
+Isla Vista,2.0,5
+San Antonio,4.0,2
+Tucson,3.0,800
+Hamiltion,3.5,1
+Westchase,4.5,2
+Holland,5.0,4
+Richmond Heights,1.5,2
+Tampa Palms,4.0,1
+Noblesville,1.0,1
+Zionsville,5.0,11
+Fairless Hills,3.5,11
+Whiteland,1.5,1
+Columbus,3.0,2
+Summerland,4.0,11
+Terrytown,4.5,9
+Shiloh,4.0,5
+Noblesville,4.5,2
+Westwego,3.0,3
+Hilltown,4.5,1
+Chadds Ford,2.0,4
+Wayne,1.5,5
+Imperial,1.5,1
+ClearWater,4.5,1
+Westwego,4.5,6
+Violet,3.5,1
+Kirkwood,4.0,33
+Webster Groves,2.5,6
+Monroe Township,3.5,1
+Sappington,2.5,1
+Santa Barbara,2.5,142
+Prospect Park,4.5,7
+Hulmeville,3.0,1
+Mullica Hill,4.5,7
+Burlington Township,1.5,1
+Feasterville,2.0,5
+Monroe Township,4.0,2
+Godfrey,4.5,2
+Lambertville,3.5,26
+Lower Gwynedd,3.0,1
+Plainfield,3.0,33
+Edmonton,4.0,736
+N.Wales,1.5,1
+Feasterville,2.5,6
+Bryn Mawr,2.5,19
+Gretna,3.0,28
+Camby,4.5,4
+Wayne,3.0,31
+King Of Prussia,1.5,10
+Overland,2.0,7
+Doylestown,2.0,21
+Richboro,4.5,8
+East Alton,2.5,1
+Belleair Blf,2.5,1
+Brandon,4.5,118
+Temple Terrace,5.0,3
+Barnhart,2.0,1
+OFallon,1.5,1
+Unionville,4.0,2
+Belleair Bluffs,2.5,4
+Royersford,2.0,11
+Pennsburg,3.0,4
+St. Petersburg,5.0,77
+North Redington Beach,5.0,1
+Port Richey,3.5,40
+VC Highlands,4.5,1
+Valley Park,1.5,3
+Saint Albert,3.5,7
+West Deptford,4.0,5
+Spring House,4.5,6
+Earth City,3.5,1
+Glen Mills,2.0,5
+Fishers,4.5,83
+Bristol,5.0,1
+Creve Coeur,3.5,36
+Lansdale,4.5,40
+Voorhees,2.0,19
+Beaumont,4.0,1
+Riverview,2.0,39
+Jenkintown,2.5,20
+Jamison,3.0,3
+Willingboro,4.5,3
+Birchrunville,5.0,1
+Land O' Lakes,2.0,5
+Deptford Township,2.5,2
+Gilbertsville,3.0,5
+new orleans,2.0,1
+Wood River,1.5,1
+Concordville,1.5,1
+Metairie,1.0,5
+Tierra Verde,3.0,2
+Creve Coeur,4.5,21
+Franklin,4.0,203
+King of Prussia,5.0,15
+Richmond Heights,2.5,11
+Indian Rocks Beach,3.5,12
+Glenside,1.5,3
+Upper Darby,4.0,34
+St. Charles,4.0,14
+Greenville,4.0,2
+Caln,4.5,1
+Maryland Heights,4.5,15
+Brooklawn,4.5,1
+Odessa,3.5,10
+Waterloo,4.5,9
+Wesley Chapel,1.0,2
+lawrence,4.5,1
+Ambler,2.5,10
+Caseyville,3.5,1
+Pleasant View,3.0,4
+Pennsauken,1.5,4
+Wilmington,2.0,62
+Collinsville,2.5,18
+"Land o' Lakes,",3.0,1
+Trevose,3.5,3
+Indianapolis,2.5,472
+Boise,5.0,156
+Drexel Hill,3.5,17
+Belle Chasse,5.0,2
+Shrewsbury,4.5,3
+Langhorne,1.0,1
+Cherry Hill,1.5,23
+Voorhees Township,1.5,1
+Concordville,2.5,2
+Ridley Park,2.0,2
+Garden City,1.5,2
+Holiday,2.0,6
+Green Lane,3.5,1
+Masaryktown,3.5,1
+Feasterville-Trevose,4.5,9
+Mount Holly,2.0,9
+Oaks,1.0,1
+Tabernacle,2.5,1
+Wenonah,4.0,3
+Plumsteadville,3.0,1
+Bridgeton,2.0,11
+Dumont,4.0,1
+Fairless Hills,3.0,19
+Petersburg,4.0,2
+New Port Richey,2.0,24
+Bala Cynwyd,3.5,28
+Columbus,2.5,2
+Largo,1.0,2
+Clayton,3.0,19
+Paulsboro,4.5,2
+St. Ann,3.5,1
+Zephyrhills,1.5,3
+Clarksboro,3.5,2
+Logan Township,4.0,1
+Eddystone,4.0,2
+Imperial,3.5,6
+Brownsburg,4.0,24
+Trenton,4.0,50
+Bristol,3.0,13
+Radnor Township,3.0,1
+Mt. Juliet,1.5,1
+Lahaska,3.0,5
+St. Louis,3.0,91
+Clementon,5.0,1
+Gibbsboro,3.5,4
+Tampa Bay,4.0,10
+Indianpolis,4.5,1
+Safety Harbor,5.0,9
+Cedar Brook,3.0,1
+Willingboro,3.5,5
+O'fallon,3.5,1
+Philadelphia (Northeast Philly),3.0,1
+St. Pete Beach,4.5,24
+Riverview,1.5,15
+Gloucester City,4.0,7
+Treasure Is,4.5,1
+St. Charles,5.0,1
+Haddon Township,2.0,1
+Pitman,3.0,3
+Reno,5.0,496
+Terrytown,3.0,3
+Rockledge,3.5,1
+Wenonah,3.0,2
+PHILA,4.0,1
+Collinsville,4.5,10
+New Palestine,2.5,2
+Ewing Township,3.0,5
+Ewing Township,2.0,3
+Phoenixville,2.0,11
+Vail,2.5,2
+East Norristown,2.0,1
+Glen Carbon,4.5,1
+Conshohocken,2.5,26
+Metairie,5.0,42
+Malvern,2.5,7
+Sunset Hills,3.0,1
+Glassboro,3.5,22
+Jamison,4.5,4
+Yardley,3.5,19
+Berwyn,2.0,5
+Conshohocken,3.0,44
+Arnold,3.0,30
+Lester,1.5,1
+Oro Valley,3.5,41
+King Of Prussia,4.5,7
+Willow Grove,1.0,1
+Oro Valley,2.5,23
+Foster Pond,3.5,1
+Moorestown,5.0,9
+Rockledge,4.5,3
+Philadelphia,2.0,544
+St. Peters,4.0,1
+Southampton,5.0,5
+indianopolis,4.0,1
+Elmwood,3.0,2
+Bensalem,5.0,7
+Elverson,2.0,1
+Virginia City,4.5,10
+Temple Terrace,2.5,8
+Feasterville Trevose,4.0,13
+St Louis,3.5,40
+Hudson,5.0,3
+Devon,3.0,3
+Bridgeport,1.5,1
+Feasterville,1.0,1
+Maplewood,4.0,19
+Cinnaminson,2.0,6
+Ridley Park,4.5,5
+Woolwich Township,4.5,1
+Darby,5.0,1
+McCordsville,4.5,3
+Gilbertsville,2.0,1
+Arabi,4.5,9
+Elkins Park,3.5,13
+Carson City,3.0,1
+Tarpon Springs,5.0,16
+St.  Charles,5.0,1
+Madeira Beach,4.0,32
+Maple Shade Township,5.0,1
+Saint Albert,4.5,4
+Cinnaminson,2.5,8
+Mt Laurel,4.5,1
+Media,5.0,9
+Vincentown,5.0,1
+Harleysville,3.5,16
+Reno Sparks,3.5,1
+Wyndmoor,4.0,7
+Land O Lakes,2.5,6
+Abington,4.5,14
+Claymont,4.5,3
+Santa Barbra,3.5,1
+Hendersonville,2.0,19
+Montgomeryville,2.0,12
+Kenneth City,2.5,3
+Philadephia,3.0,1
+Gretna,3.5,52
+Furlong,3.0,1
+Mt Ephraim,3.0,1
+Ferguson,1.0,1
+Wood River,5.0,1
+Sun City Center,2.0,2
+Merchantville,2.0,1
+Brookhaven,5.0,2
+Merion,4.5,1
+West Berlin,1.5,1
+Dade City,4.0,1
+Eddystone,2.5,2
+Brownsburg,4.5,25
+Concordville,3.5,1
+Saint Louis,2.0,160
+Bellevue,4.0,3
+Shrewsbury,2.5,1
+Lawrence,3.5,4
+Prospect Park,2.0,1
+Speedway,4.5,13
+Ridley Park,3.5,9
+Smyrna,4.0,44
+Mt.Juliet,2.0,1
+Antioch,2.0,22
+O Fallon,2.0,6
+Gulfport,2.5,3
+Oaks,5.0,1
+St Charles,3.0,10
+Rock Hill,1.5,1
+Winchester,4.5,1
+Garden City,5.0,12
+South Pasadena,5.0,1
+Jefferson,3.0,3
+Brookhaven,1.5,2
+reno,4.5,1
+Harvey,2.0,17
+St Pete Beach,3.0,8
+Lawnside,3.5,2
+Lawrenceville,2.5,2
+Lakewood,4.0,1
+Villanova,4.5,5
+Safety Harbor,2.5,3
+langhorne,1.5,1
+Franklin,3.5,201
+Collinsville,5.0,1
+Stratford,5.0,1
+Cedars,4.0,1
+Avon,4.0,37
+Pontoon Beach,1.5,1
+Voorhees Township,3.5,16
+Spanish Springs,4.0,3
+Lederach,3.5,2
+Apollo Beach,3.0,2
+Largo,3.0,74
+Gulfport,1.5,2
+Coatesville,4.0,4
+Haddon Heights,3.0,4
+Oaklyn,3.0,3
+East Nashville,4.5,1
+Blackwood,3.0,14
+Audubon,3.5,18
+Port Richey,3.0,26
+Washington Township,3.5,2
+Montecito,5.0,11
+Lula Lula,3.5,1
+Collingdale,1.5,1
+Nashville,3.5,904
+Swarthmore,4.0,8
+Glenmoore,5.0,1
+Spring Hill,3.0,32
+Sicklerville,2.0,12
+Indian Rocks Beach,4.0,17
+Oldsmar,3.0,19
+Fenton,1.5,4
+New Hope,1.5,3
+Huntingdon Valley,1.5,2
+Bellevue,2.0,3
+Cherry Hill,3.0,120
+Palmetto,3.5,4
+Ewing,3.5,19
+Berwyn,4.0,19
+Woodbourne,4.5,1
+Pineville,3.0,1
+Gwynedd,3.5,1
+Algiers,1.5,1
+Cherry Hill,2.5,87
+Evesham,4.5,2
+Florissant,3.0,32
+Hazelwood,2.0,7
+Holicong,4.5,2
+Upper Darby,1.5,11
+Garden City,3.5,18
+Fenton,1.0,5
+New Castle,1.0,2
+Troy,2.5,1
+Land O'Lakes,3.5,1
+Saint Petersburg,5.0,93
+Medford,1.0,2
+Shamong,4.0,4
+North Redington Beach,1.5,1
+Westmont,4.0,3
+Gradyville,3.0,1
+Boyertown,5.0,1
+Upper Darby,3.0,15
+Affton,4.0,5
+Berry Hill,5.0,1
+Feastville,4.5,1
+Penns Grove,2.0,1
+Holmes,2.5,4
+Sewell,4.0,35
+W. Berlin,3.0,1
+Des Peres,2.5,6
+Tucson,1.0,31
+Trinity,4.5,13
+Holland Southampton,4.0,1
+Largo,2.0,39
+Nashville ,4.5,1
+Laurel Springs,4.0,7
+Beverly,2.5,1
+San Antonio,4.5,1
+Wood River,4.5,1
+Southampton Township,3.5,1
+Ewing Township,2.5,4
+Wilmington,3.0,149
+Seminole,1.5,4
+Arnold,2.0,10
+Lemay Ferry,2.0,1
+Hockessin,4.5,9
+Penn Valley,3.0,1
+Fairless Hills,4.5,8
+Westwego,3.5,4
+Haddonfield,3.0,11
+Clermont,3.5,2
+Trenton,1.5,7
+Land O Lakes,4.5,10
+Chalfont,3.5,17
+Boothwyn,2.5,6
+Gibbstown,5.0,1
+Bellmawr,4.0,9
+Warrington Township,4.0,1
+Town N Country,5.0,2
+Lindenwold,3.0,4
+Woolwich Township,5.0,1
+Saint Ann,1.5,3
+Verdi,2.0,1
+Carney's Point,2.5,1
+O Fallon,3.5,5
+Berwyn,5.0,5
+Carmel,3.0,78
+Conshohocken,5.0,10
+Eaux Claires,1.5,1
+Yardley,1.5,1
+Philadelphia,3.5,1962
+Dublin,3.5,1
+Glenside,5.0,8
+Belle Chase,3.5,1
+West Conshohocken,3.0,1
+Antioch,4.5,21
+Pine Hill,1.0,1
+Sicklerville,3.0,23
+Fort Washington,2.5,3
+Mount Laurel,1.0,1
+Kulpsville,3.0,2
+Indian Rocks Beach,5.0,3
+East Tampa,3.0,1
+Huntingdon Valley,2.0,4
+Dunedin,1.0,1
+Greenfield,1.5,1
+Atco,3.5,1
+Verdi,4.5,5
+Yeadon,4.5,1
+TUCSON AP,1.5,1
+Granite City,2.0,3
+Beaumont,3.0,1
+Pinellas Park,3.5,51
+Mount Juliet,2.0,5
+Camden,3.0,6
+Wimauma,3.5,1
+Newtown,5.0,19
+Tucson,2.0,407
+Terra Ceia,5.0,1
+Moorestown,4.5,21
+Gloucester City,3.0,1
+Clermont,4.0,1
+Noblesville,3.0,4
+Hendersonville,4.5,50
+Stowe,4.0,1
+Newfield,3.5,1
+Redington Shore,3.0,1
+Chesterfield,2.0,3
+St  Louis,4.5,1
+Gretna,4.0,43
+Mt Juliet,5.0,1
+Land O'Lakes,2.5,1
+Upper Darby,4.5,26
+Holmes,2.0,3
+Elkins Park,3.0,7
+Churchville,5.0,1
+Hamilton,3.0,2
+Prospect Park,1.5,1
+Saint Louis,3.0,389
+Alton,1.0,2
+St. Petersburg,4.0,203
+Pine Hill,4.0,2
+Rosemont,4.5,5
+Melrose Park,4.5,1
+Westmont - Haddon Towsship,3.0,1
+Bristol Twp,3.5,1
+Belle Chasse,2.5,1
+Upper Darby,1.0,3
+Port Richey,2.0,15
+kop,2.0,1
+Holland,4.0,4
+Ambler,1.5,2
+Wimauma,4.0,2
+Ardmore,4.5,55
+Hainesport,4.0,10
+Madison,3.5,27
+Kirkwood,5.0,8
+Paulsboro,1.5,1
+Erdenheim,4.0,1
+Collingswood,2.0,2
+Edgewater Park,3.5,1
+Freeburg,4.0,3
+Penn Valley,5.0,1
+saint petersburg,4.5,1
+Audubon,1.0,2
+Wallingford,5.0,1
+Corona De Tucson,3.5,1
+Philadelphia,4.0,2513
+Trenton,2.5,8
+Spring City,4.5,6
+Marlton,2.0,15
+Atco,2.5,1
+Maryville,4.0,2
+Mt Juliet,2.0,1
+Florissant,4.5,30
+Telford,1.5,2
+Trenton,3.0,20
+Overland,2.5,5
+Trevose,3.0,5
+Harrison Township,5.0,1
+Hockessin,2.5,4
+Mendenhall,3.0,2
+TAMPA,2.5,3
+Pinellas Park,4.5,66
+Richmond Heights,4.0,16
+Hatfield,2.5,10
+Glen Carbon,3.0,4
+Santa  Barbara,4.0,1
+Fairview Heights,2.5,24
+Pittsgrove,2.5,1
+Carmel,4.0,151
+Narberth,4.5,18
+Wyncote,2.5,9
+Cheltenham,4.5,4
+Southampton,4.0,29
+Palmyra,2.5,2
+Sherwood Park,5.0,3
+London Grove,4.0,1
+Washington Township,2.5,1
+Collingswood,3.5,20
+Westville,5.0,1
+Redingtn Shor,5.0,1
+Apollo Beach,4.0,12
+Corona de Tucson,5.0,1
+Maryland Height,3.0,1
+Madison,3.0,29
+Sun City Center,3.5,4
+Summerland,2.5,1
+Pennsauken,2.0,3
+Haddon Township,5.0,3
+Norristown,4.5,47
+Berwyn,4.5,9
+Southport,2.0,1
+Bordentown,5.0,3
+Atco,4.5,2
+tampa,4.0,1
+Bridgeton,4.0,18
+St. Ann,2.0,2
+Flourtown,5.0,3
+Plainfield,4.0,36
+Earth City,4.0,2
+King of Prussia,2.5,51
+Elmwood,2.0,1
+St.Petersburg,2.5,1
+Turnersville,2.0,4
+Southeast Edmonton,3.5,1
+Pleasant View,2.5,2
+Medford Lakes,5.0,1
+Voorhees,2.5,20
+Gibsonton,4.5,6
+Caseyville,1.5,4
+Hermitage,1.5,16
+Coatesville,2.5,2
+Collingdale,4.0,1
+Edmonton,3.5,648
+Garnet Valley,3.5,3
+Warson Woods,3.0,2
+Stratford,2.5,5
+St Louis,4.5,55
+Berlin,2.0,4
+Affton,2.0,2
+Tabernacle,3.0,2
+New Orleans,1.5,89
+Thorofare,3.0,2
+New Port Richey,4.0,77
+Frontenac,3.5,7
+Virginia City,5.0,3
+Kimberton,4.0,2
+Oldsmar,1.5,11
+Fairmount Park,1.0,1
+Willingboro,2.0,6
+Secane,4.0,4
+Paoli,4.0,24
+Odessa,3.0,10
+Sappington,4.0,2
+Bala Cynwyd,1.5,6
+Fairmont City,4.0,1
+Kimberton,4.5,2
+Wilmington Manor,4.0,1
+Rosemont,2.5,1
+St.Louis,3.5,1
+Real Goleta,2.0,1
+Brownsburg,3.0,18
+Pasadena,2.5,2
+Corona De Tucson,4.0,1
+Frazer,1.0,1
+Mt Holly,3.5,1
+Evshm Twp,4.5,1
+Largo,4.5,115
+Green Park,2.0,1
+Tampa,1.0,66
+Swedesboro,5.0,2
+Whiteland,4.0,5
+clearwater,4.0,1
+Saint Rose,4.0,3
+Feasterville,3.5,15
+Maple Shade,3.5,23
+Langhorne,2.5,33
+New Hope,3.0,33
+Pitman,4.5,10
+Downingtown,2.5,18
+Westville,3.5,6
+Arnold,4.0,25
+Spring Hill,2.0,20
+Deptford,3.5,15
+Colmar,5.0,1
+St. Louis,5.0,83
+Sewell,5.0,3
+Woodbury,4.0,15
+Somerdale,3.5,8
+Castleton,3.5,2
+Maryville,4.5,2
+Plant City,1.5,15
+Pennsville Township,4.0,1
+University City,4.5,17
+Marcus Hook,3.0,4
+Temple Terrace,2.0,9
+MacDill AFB,3.5,1
+Kimmswick,2.5,1
+Hermitage,4.5,32
+Kingston Springs,4.0,3
+Odessa,2.5,11
+Brentwood,4.0,110
+Morrisville,1.5,3
+Valley Park,2.5,6
+Hazelwood,1.5,5
+Chester,3.5,3
+Lawrence,3.0,1
+Horsham,1.5,3
+Shamong,4.5,3
+Brandon,5.0,26
+Millstadt,4.0,3
+YARDLEY,4.5,1
+Sicklerville,1.5,1
+Colmar,4.5,4
+Newport,4.5,1
+Bryn Athyn,1.5,1
+Whites Creek,3.5,1
+Gloucester Township,4.0,3
+East Alton,4.0,2
+Treasure Is,4.0,1
+Narberth,2.5,3
+Newport,1.5,1
+Metarie,3.5,1
+Stowe,2.0,1
+Brookhaven,3.5,7
+Mount Holly,3.5,9
+Thorofare,2.5,1
+Chesterbrook,3.0,1
+Ruskin,3.5,16
+Troy,1.5,1
+Shrewsbury,5.0,2
+Goodlettsville,2.0,16
+Zionsville,2.0,5
+Nolensville,4.5,8
+Thonotosassa,4.0,3
+Earth City,1.0,1
+Linwood,2.0,1
+Thorofare,1.5,2
+Levittown,1.0,3
+Furlong,4.0,2
+Blue Bell,3.0,17
+Folcroft,4.0,5
+Treasure Island,4.0,24
+Wayne,4.0,61
+Bala Cynwyd,3.0,21
+Montecito,4.0,15
+Pennsauken Township,5.0,1
+Carpinteria,3.0,22
+White House,3.0,3
+Red Hill,5.0,1
+Hartford,4.5,1
+Nashville,5.0,396
+Goleta,3.0,72
+Collingswood,4.5,34
+Berkeley,2.0,1
+TAMPA,1.5,3
+Lester,1.0,1
+Bala Cynwyd,5.0,9
+Bellmawr,4.5,3
+Springfield,3.0,50
+Pennsville,4.0,3
+Indianpolis,2.5,1
+NASHVILLE,2.0,2
+Trooper,2.5,1
+Upper Pottsgrove,3.0,1
+Camby,4.0,3
+Antioch,5.0,8
+Colmar,4.0,1
+Fenton,4.0,19
+Blue Bell,5.0,4
+Sun Valley,3.5,1
+Brentwood,1.5,15
+Cedar Brook,4.5,1
+Schwenksville,4.5,10
+Wesley Chapel,3.5,69
+O' Fallon,2.5,1
+Palmyra,4.5,7
+Silverdale,5.0,1
+N Redington Bch,4.0,1
+St. Petersburg,3.0,80
+Glenolden,4.5,2
+Saint Louis,1.5,87
+Hazelwood,4.5,5
+Treasure Is,5.0,1
+Sharon Hill,3.0,1
+Chalmette,2.0,5
+Merchantville,4.5,7
+Treasure Island,2.5,2
+Telford,1.0,1
+Warminster,1.5,5
+Eagle,2.0,9
+Saint Peters,3.0,1
+St.Charles,3.0,1
+Crum Lynne,2.5,1
+Reno,3.0,472
+Audubon,3.0,6
+Evesham Township,4.5,7
+Riverview,3.5,72
+Flourtown,3.0,4
+Bridge City,3.0,1
+Mooresville,1.5,1
+Haddonfield,4.5,36
+Montgomeryville,3.0,14
+Somerdale,4.5,10
+Des Peres,2.0,11
+Westchase,3.0,2
+Kulpsville,2.5,1
+Tinicum Township,2.5,1
+Schwenksville,5.0,1
+Montgomeryville,4.5,11
+Ivyland,3.0,1
+O'Fallon,4.0,15
+Oaklyn,1.5,2
+Trenton,4.5,35
+Waterloo,5.0,1
+Woodstown,3.0,2
+Wenonah,2.5,2
+Buckingham,4.0,7
+Valrico,4.0,32
+Runnemede,2.5,12
+St. Pete Beach,5.0,8
+Lumberton,2.0,4
+Arizona,5.0,1
+Franklin,1.5,24
+East Saint Louis,3.5,1
+Elkins Park,2.0,1
+West Deptford,1.5,2
+Hamilton Township,4.0,3
+Silverdale,3.0,1
+Riverside,3.0,1
+Santa Barbara,4.5,716
+King Of Prussia,4.0,14
+Sicklerville,2.5,19
+Whitestown,5.0,3
+Belleville,1.0,3
+E. Norristown,3.0,1
+Berlin Township,4.0,2
+Garden City,2.0,3
+Newtown,4.0,48
+Ambler,3.0,14
+Collegeville,3.5,42
+Trinity,1.5,2
+Harvey,4.5,28
+Greenwood,1.5,9
+Virginia City,3.0,1
+Santa Ynez,5.0,1
+SANTA BARBARA AP,2.0,1
+Lansdale,1.0,1
+King of Prussia,3.0,70
+Warminster ,4.5,1
+Tucson,1.5,193
+Wesley Chapel,2.0,21
+Spring City,4.0,5
+Burlington,1.5,9
+Jefferson,1.5,3
+Maran,3.0,1
+Mount Juliet,4.0,44
+Tampa Bay,5.0,12
+Hillsborough,4.0,1
+Indian Rocks Beach. ,4.5,1
+Willingboro,2.5,5
+Downingtown,4.5,17
+Glen Carbon,3.5,8
+Narberth,5.0,7
+Greenville,5.0,1
+Town and Country,4.0,10
+Saint Davids,3.5,1
+Reno,2.5,338
+Harahan,2.5,12
+Lutz,1.0,1
+Mt Juliet,4.0,3
+Devon-Berwyn,2.5,1
+Garden City,4.0,14
+Aston,4.5,17
+Elmer,4.0,1
+Winslow Township,2.5,1
+Arnold,1.5,7
+South Cinnaminson,3.5,1
+Wilmington Manor,5.0,1
+Glenmoore,3.0,1
+Philadelphia,4.5,2173
+St Ann,2.5,1
+Marshallton,2.0,1
+Langhorne,3.5,34
+Fortville,3.5,1
+Clifton Heights,4.0,10
+Seffner,5.0,2
+Arnold,4.5,15
+Meridian,4.0,153
+Kenner,3.0,54
+Land o Lakes,4.0,1
+North Maple Shade,3.5,1
+Lafayette Hill,4.5,7
+Lutz,5.0,25
+Saint louis,4.5,1
+Shrewsbury,3.5,1
+Fort Washington,3.0,4
+Audubon ,4.5,1
+ST. PETERSBURG,1.5,1
+Ozona,4.5,2
+Ruskin,3.0,16
+Southampton,1.5,1
+Aldan,3.5,4
+Slidell,4.0,1
+Ashland City,5.0,3
+Jobstown,2.5,1
+Jefferson,2.5,3
+Goodletsville,4.0,1
+Skippack,2.5,4
+Green Park,3.5,1
+Fishers,3.0,47
+RIVERVIEW,5.0,1
+Madison,4.5,24
+Bensalem,4.5,28
+Chalmette,3.0,6
+Stratford,3.5,8
+River Ridge,5.0,2
+Lansdale ,4.0,1
+Plymouth Meeting,3.0,28
+Fenton,4.5,19
+Marana,2.0,6
+St. Petersburg,2.5,53
+Pinellas Park,4.0,70
+Meridian,5.0,41
+Zionsville,2.5,8
+O'fallon,1.5,1
+Washington Crossing,3.5,2
+Delran,1.0,2
+Telford,4.5,3
+Sun Valley,1.5,1
+Chesterbrook,2.0,1
+Gilbertsville,3.5,10
+Marlborough,4.0,2
+Safety  Harbor,4.5,1
+Perkasie,4.5,10
+Chester Springs,3.0,3
+Voorhees Township,3.0,6
+Dade City,3.5,1
+East Norriton,4.5,8
+Nampa,3.0,1
+King of Prussia,1.5,8
+Thorndale,3.0,7
+Bucks County,3.5,1
+Pemberton,5.0,1
+Clearwater,4.5,291
+Summerland,2.0,2
+Lebanon,1.0,1
+Hermitage,3.5,34
+St Pete Beach,3.5,11
+Columbia,1.5,1
+Treasure Island,3.0,12
+Cortaro,4.5,1
+Woodbury Heights,3.5,4
+Florence,3.5,1
+St. Ann,2.5,1
+Spring Hill,1.0,1
+Fairview,3.5,1
+Devon,2.0,5
+Maryland Heights,3.5,34
+Line Lexington,2.0,1
+Truckee,4.5,1
+Greenbrier,5.0,1
+Swedesboro,4.0,15
+Lumberton,2.5,6
+Mount Juliet,3.0,24
+Boyertown,3.5,5
+Tampa - North,3.5,1
+Nolensville,2.5,1
+Brandon,1.0,5
+Casas Adobes,4.0,1
+Penndel,4.5,2
+Boise City,3.0,1
+Bala Cynwyd,2.0,11
+High Ridge,2.5,2
+Swedesboro,1.5,1
+Newport,3.5,3
+Southampton,3.5,17
+Mullica Hill,3.5,11
+Trappe,3.0,2
+Mehlville,1.5,1
+Wayne,2.0,7
+Pittsgrove,3.5,1
+Waterloo,2.5,3
+Palm Harbor,4.0,111
+Morrisville,4.0,17
+Indianapolis,4.0,1163
+Perkiomenville,4.0,2
+Des Peres,5.0,5
+Turnersville,3.0,17
+Lutz,4.0,91
+New Palestine,4.5,4
+Indianapolis ,4.5,2
+Waterloo,4.0,4
+Summerland,4.5,9
+Folsom,5.0,1
+Clementon,2.5,13
+Hernando Beach,4.5,1
+Mount Ephraim,3.0,2
+Berlin,3.5,11
+CLEARWATER,3.0,1
+Bristol,3.5,7
+Collingswood,5.0,15
+Carrollwood,4.5,1
+St. Pete Beach,4.0,34
+Abington,5.0,8
+Drexel Hill,4.0,21
+Magnolia,4.5,2
+Martinsville,3.5,2
+Swansea,2.0,1
+Marana,2.5,7
+Kennett Square,5.0,2
+Devon,1.5,2
+New Castle,2.0,20
+Des Peres,4.0,21
+East Norriton,2.5,9
+Pennsville,3.5,8
+Delran,2.0,8
+Lawnside,4.0,2
+Festerville,3.5,1
+Levittown,3.0,21
+Town and Country,1.5,2
+Oakville,4.0,2
+Bala Cynwyd,2.5,17
+Blackwood,4.0,14
+Royersford,4.5,20
+New Hope,3.5,31
+Cheltenham,3.5,4
+riverview,4.5,1
+Lutz,4.5,76
+Wyndmoor,4.5,4
+Casas Adobes,2.0,1
+Wyndmoor,3.0,2
+Land O' Lakes,4.0,14
+Maryland Heights,3.0,26
+Saint Ann,4.5,3
+Alton,5.0,3
+Joelton,4.0,2
+Old Hickory,2.5,2
+Swansea,1.0,1
+Barrington,4.5,7
+Newark,1.0,2
+Chester Springs,4.0,6
+Tucson,3.5,1193
+Ruskin,4.5,10
+Rosemont,3.5,1
+Hazelwood,3.0,10
+Bensalem. Pa,4.0,1
+Thorndale,2.5,3
+New Britain,4.0,2
+Gladwyne,4.0,4
+Terrytown,2.0,3
+Terrytown,4.0,8
+Bryn Mawr,2.0,8
+East Lansdowne,4.0,1
+Voorhees Township,1.0,1
+Meraux,3.0,1
+Souderton,3.5,9
+Belleair Beach,3.5,2
+Croydon,3.0,3
+Southport,4.0,2
+Camden,3.5,12
+Holiday,4.0,14
+Blackwood,2.0,7
+Kenneth City,4.5,5
+La Vergne,1.5,5
+Hulmeville,4.5,1
+Carversville,4.5,1
+Havertown,1.5,4
+Trevose,2.5,8
+Haddon Heights,5.0,2
+Cedars,4.5,2
+New Orleans,2.0,155
+Lester,4.0,1
+Brooklawn,2.5,4
+Blue Bell,2.0,5
+Shrewsbury,2.0,1
+Hammonton,4.0,6
+Chester Springs,1.5,1
+Phoenixville,2.5,21
+Greenville,1.5,1
+French Quarter - CBD,4.0,1
+Philadelphia,1.0,73
+Saint Charles,1.0,3
+Folsom,2.0,3
+Havertown,4.0,46
+Plant City,2.0,10
+Largo (Walsingham),3.5,1
+Pennington,2.5,1
+Safety Harbor,4.5,33
+Hermitage,2.5,21
+Oreland,2.5,2
+Feasterville-Trevose,4.0,11
+Florissant,1.0,2
+Madeira Beach,3.0,10
+Hi-Nella,4.5,1
+Antioch,4.0,33
+Pine Hill,4.5,1
+New Palestine,4.0,1
+Westampton,4.5,1
+Bryn Mawr,3.0,22
+TAMPA,3.5,3
+New Castle,1.5,8
+Glenolden,1.5,2
+Sellersville,4.0,8
+Bristol,4.0,15
+Wrightstown,4.5,1
+Columbia,2.0,2
+Redington Shores,2.5,1
+Mooresville,3.0,3
+Holmes,3.5,5
+Telford,3.5,3
+University City,2.0,4
+SAINT LOUIS AP,2.0,1
+Swansea,2.5,2
+nashville,3.5,1
+Mount Juliet,2.5,28
+RENO,2.5,1
+College Place,4.5,1
+Apollo Beach,4.5,19
+Salem,2.5,1
+Zephyrhills,4.5,15
+Goodlettsville,5.0,3
+Fort Washington,1.5,2
+Wilmington,2.5,107
+Maple Shade Township,4.0,2
+Maryland Heights,1.5,2
+Evesham,4.0,4
+Palmyra,3.0,1
+Holiday,3.5,13
+Madeira Beach,3.5,23
+Downingtown,2.0,11
+Exton,2.0,24
+Wynnewood,4.0,12
+Granite City,4.5,8
+Newtown Township,4.5,1
+Maple Shade,3.0,14
+Lindenwold,4.5,4
+Glendora,4.0,4
+Lafayette Hill,4.0,8
+Morton,3.0,4
+Mt. Laurel,4.0,4
+Mount Laurel,3.0,41
+Glen Carbon,4.0,5
+Dade City,4.5,3
+Laurel Springs,3.0,2
+Bordentown Township,4.0,1
+Santa Maria,5.0,1
+Roslyn,3.5,1
+Cinnaminson,5.0,2
+maple shade nj,2.0,1
+philadelphia,3.5,1
+Masaryktown,4.5,2
+Lansdale,3.5,55
+Brandon,2.0,62
+Mount Ephraim,4.5,1
+Manchester,4.0,12
+Newtown Square,5.0,6
+Elkins Park,4.5,17
+Glassboro,2.0,7
+Brooklawn,1.5,1
+Marlborough,2.0,1
+Trappe,5.0,2
+Collingdale,2.5,4
+Dresher,3.0,7
+South Pasadena,4.5,8
+Trevose,1.5,3
+St Petersburg,5.0,24
+Downingtown,3.0,24
+Telford,2.0,1
+Maple Glen,3.0,2
+Pinellas Park,2.5,45
+New Palestine,3.0,1
+Limerick,2.5,8
+Donelson,3.0,1
+Newport,4.0,3
+Elmer,2.5,1
+Abington,3.5,20
+Sparks,1.5,34
+McCordsville,3.5,5
+Green Valley,3.0,9
+Magnolia,5.0,2
+Shrewsbury,4.0,2
+Hockessin,2.0,1
+Old Hickory,2.0,3
+Manchester,2.5,13
+Magnolia,3.5,4
+Greenville,3.0,2
+Zephyrhills,2.5,7
+St. Pete Beach,2.5,3
+Greater Carrollwood,4.5,1
+Woodstown,3.5,2
+Whites Creek,4.0,2
+St Louis,1.0,1
+Affton,2.5,4
+Houston,1.5,1
+Deptford,3.0,22
+Donelson,4.5,1
+Sun Valley,3.0,1
+Nashville,2.0,287
+Santa Barbara & Ventura Counties,3.5,1
+Jefferson,4.5,11
+Seminole,4.0,44
+New Hope,2.0,6
+Hammonton,4.5,2
+Mt Holly,3.0,1
+Harvey,5.0,7
+Glen Carbon,5.0,1
+NEWARK,4.5,1
+CHELTENHAM,3.5,1
+Brandon,3.5,124
+Lutz,1.5,14
+Chesterfield,3.5,27
+Lithia,1.0,1
+North Redington Beach,2.5,1
+Clayton,1.0,1
+Bryn Athyn,4.5,1
+Dresher,4.5,4
+Tabernacle,4.5,3
+Barrington,3.5,2
+Afton,4.0,1
+Ambler,5.0,14
+Saint Louis,3.5,679
+Warrington,3.0,21
+Trinity,2.5,5
+Mt Juliet,2.5,4
+Lawrence,1.5,1
+New Port Richey,2.5,40
+Earth City,2.5,3
+Runnemede,1.0,1
+Clearwater Beach,3.5,40
+Washoe Valley,4.5,1
+Sparks,1.0,6
+Mascoutah,3.5,4
+Thorndale,2.0,6
+"Saint Louis,",4.0,2
+Wesley Chapel,3.0,58
+Maple Glen,5.0,3
+Camden,4.0,9
+South Pasadena,3.5,7
+Belleville,3.5,32
+Trinity,2.0,3
+Madison,1.5,10
+Pemberton,3.5,1
+Shamong,5.0,1
+Mont Clare,3.5,1
+St.Petersburg,1.5,1
+Levittown,2.0,11
+High Ridge,2.0,2
+Pottstown,4.5,28
+Lansdowne,1.5,1
+Land O Lakes,5.0,5
+Blackwood,5.0,1
+UPPER MORELAND,4.0,1
+Mt Juliet,1.5,1
+Wayne,2.5,23
+Troy,2.0,3
+Lumberton,3.5,5
+Parkside,3.5,2
+Westmont,2.5,4
+Millstadt,3.5,4
+Springfield,2.5,43
+La Vergne,2.0,3
+West Conshohocken,4.0,2
+Lebanon,5.0,2
+Ambler,3.5,30
+Phoenixville,3.5,55
+Lutz,3.5,65
+Southport,2.5,1
+Yeadon,3.0,4
+Downingtown,5.0,7
+Norristown,2.5,24
+Mt. Ephraim,2.0,1
+East Norriton,1.5,2
+Deptford,4.0,10
+Trappe,3.5,4
+Moorestown,1.5,7
+Lindenwold,2.5,2
+"Old Hickory, TN",4.5,1
+Brandon,4.0,134
+Sewell,3.5,34
+Mount Lemmon,3.5,2
+Carmel,1.5,15
+Woodbury Heights,2.5,1
+Holmes,3.0,7
+Jeffersonville,4.0,1
+Florissant,4.0,25
+Temple Terrace,3.5,16
+Fishers,1.0,1
+Greenwood,1.0,1
+Oldsmar,5.0,12
+West Hill,5.0,1
+Morton,5.0,2
+Yeadon,4.0,1
+Saint Pete Beach,1.5,1
+View,4.0,1
+Westwego,5.0,6
+Boise City,4.0,3
+Montgomeryville,3.5,13
+Maple Glen,3.5,3
+Fairmont City,4.5,1
+Saint Pete Beach,3.0,6
+Santa Barbara,1.5,29
+Carmel,2.0,17
+Land O' Lakes,1.5,2
+Bridgeton,5.0,4
+Creve Coeur,3.0,37
+Warwick,5.0,1
+Levittown,3.5,28
+Edwardsville,4.5,26
+North Wales,2.5,19
+Trappe,1.5,1
+Frontenac,3.0,3
+Jobstown,4.5,1
+Marcus Hook,4.5,6
+Woolwich Twp,3.5,1
+Norristown,1.5,5
+Harvey,2.5,32
+Nashville,4.0,1155
+Woodbury,1.0,1
+East St. Louis,4.0,1
+Eddystone,3.0,1
+Granite City,1.5,1
+Swansea,3.5,1
+TUCSON,4.5,1
+Burlington,4.5,11
+O'Fallon,2.0,7
+Frontenac,2.0,1
+Haverford,4.0,6
+Oaklyn,2.5,1
+Crestwood,2.5,2
+Mickleton,4.0,1
+Mount Laurel Township,2.5,1
+Lansdale,2.5,22
+Scott Air Force Base,4.0,1
+Lower Gwynedd,3.5,1
+Camden,5.0,6
+Jefferson,3.5,6
+Berkeley,4.0,2
+Boone,2.0,1
+Sherwood Park,1.5,1
+Mccordsville,4.0,2
+Lebanon,2.0,1
+Mehville,3.0,1
+Washoe Valley,4.0,1
+Harrison Township,3.5,1
+St.Petersburg,2.0,4
+Trooper,3.0,2
+Bordentown,4.0,24
+MARLTON,4.5,1
+Webster Groves,3.5,13
+Horsham,1.0,2
+Penns Grove,2.5,1
+Bridgeport,3.0,4
+Birchrunville,4.0,1
+Pleasant Township,4.0,1
+Pipersville,4.5,4
+New Castle,4.0,20
+Twin Oaks,4.5,1
+Clementon,1.5,1
+Hainesport,3.5,5
+Saint Pete Beach,4.5,14
+Saint Petersburg,3.5,186
+Pennsauken,1.0,1
+Voorhees,3.5,42
+St Petersburg,1.0,1
+Lawrenceville,4.5,1
+Plainfield,2.5,24
+Hermitage,2.0,17
+Bensalem,3.0,51
+Westwego,2.5,3
+St. Louis,3.5,151
+Whitestown,4.5,3
+New Castle,4.5,18
+Hatboro,2.5,5
+Granite City,3.0,4
+River Ridge,3.0,3
+Spring City,2.5,1
+Castleton,3.0,2
+Center Square,3.5,1
+Frontenac,1.5,1
+Mt Holly,4.5,1
+frazer,2.5,1
+Norwood,4.0,2
+Furlong,4.5,3
+Bridgeton,3.5,14
+Mt. Juliet,2.0,4
+Smyrna,3.5,42
+White House,4.0,11
+Wilmington,1.5,32
+North Wales,2.0,10
+Mascoutah,1.5,1
+Haddon Township,3.0,4
+Roxborough,2.5,1
+Belleair,4.5,1
+Horsham,5.0,8
+Earlington,4.0,2
+Quakertown,5.0,2
+Des Peres,3.0,14
+Doylestown,1.5,4
+Trevose,2.0,2
+Greater Northdale,3.5,1
+Buckingham,2.5,3
+Claerwater,3.0,1
+Christiana,2.5,2
+Frontenac,4.5,1
+Monroeville,2.5,2
+Boothwyn,5.0,1
+Belmont Hills,4.5,1
+Pitman,5.0,3
+Greenfield,4.0,2
+O Fallon,3.0,7
+Avondale,2.0,1
+Brandon,3.0,97
+Westmont,3.5,8
+Hamilton,2.0,2
+PLYMOUTH MTNG,3.5,1
+Greenbrier,3.5,2
+Land o lakes,3.0,1
+Huntingdon Valley,3.5,11
+DELRAN,4.5,1
+East Edmonton,3.0,1
+Alton,3.0,9
+Deptford Township,4.0,7
+Sparks,4.0,218
+Hendersonville,5.0,14
+Oaklyn,3.5,7
+Bywater,4.0,1
+Ashland City,1.0,1
+Garden City,4.5,31
+Buckingham,4.5,2
+Stowe,2.5,2
+Woodlyn,4.0,2
+Donelson,2.0,1
+Crestwood,4.0,6
+SPARKS,5.0,1
+Boise,4.5,408
+Titusville,3.5,2
+Bellevue,2.5,1
+Feasterville Trevose,4.5,11
+Wyndmoor,2.5,1
+Greenwood,4.5,61
+Willow Grove,4.5,24
+Dublin,5.0,1
+White House,4.5,8
+Sauget,3.5,2
+Boulevard,4.0,1
+Gretna,1.5,9
+Norwood,2.0,1
+Harvey,1.5,7
+Cherry Hill,3.5,107
+Florissant,2.5,21
+Greenfield,3.5,1
+Upper Chichester,4.0,2
+Land-O-Lakes,3.5,1
+Lakeland,1.5,1
+Aston,2.5,11
+O'Fallon,5.0,5
+Troy,5.0,1
+Trooper,3.5,4
+Marcus Hook,4.0,5
+TUCSON,1.5,1
+Clarksboro,4.0,4
+Voorhees Township,4.5,8
+New Orleans,1.0,10
+Pennsville,2.0,3
+Crestwood,2.0,2
+Lahaska,4.0,7
+Williamstown,3.0,6
+West Berlin,4.0,6
+Brooklawn,4.0,1
+Aston,4.0,13
+Havertown,3.5,40
+Avondale,3.0,4
+Huntington Valley,4.5,1
+Indian Rocks Beach,2.0,2
+High Ridge,1.5,1
+Warrington Township,2.5,1
+Whiteland,3.0,1
+Malvern,1.0,1
+Tennesse,3.5,1
+Oldsmar,4.5,37
+Blue Bell,1.0,1
+Huntingdon Valley,5.0,12
+Millstadt,5.0,1
+Saint Louis,4.0,774
+Limerick,3.5,16
+Maple Shade,4.0,18
+White House,3.5,5
+Logan Township,4.5,2
+Newtown Square,3.5,19
+Redingtn Shores,4.5,1
+Chester,4.0,3
+Harleysville,4.0,12
+wilmington,4.0,1
+Holiday,2.5,5
+Folcroft,2.5,2
+Belle Chasse,4.5,7
+Runnemede,3.5,6
+Delran,3.0,10
+SPRINGHILL,3.0,1
+Essington,5.0,1
+Lower Merion,4.5,1
+Ardmore,2.5,33
+Narberth,3.5,18
+Valrico,3.0,33
+Chalfont,4.5,14
+Sun City,4.5,1
+Gilbertsville,4.5,2
+Sharon Hill,4.0,2
+Blue Bell,4.0,23
+Elmwood,3.5,2
+Lambertville,2.5,1
+Colmar,2.0,2
+Avondale,1.5,1
+New Hope,4.5,46
+Lindenwold,3.5,10
+Petersburg,5.0,1
+Hatfield,2.0,5
+Hilltown,4.0,1
+Media,3.0,34
+Hatboro,4.5,24
+White House,2.5,5
+Ballwin,1.5,6
+Lima,3.5,1
+Clementon,3.5,13
+NORTH WALES,4.0,1
+Palmyra,3.5,4
+Mount Ephraim,2.5,1
+Berwyn,3.5,15
+Pagedale,4.0,1
+Carrollwood,4.0,2
+Tucson,4.0,1323
+Chesterfield,2.5,3
+Magnolia,3.0,2
+Doylestown,3.0,47
+Zionsville,4.0,34
+Harleysville,3.0,7
+Town and Country,4.5,3
+Santa Barbara,3.5,384
+Glenside,4.5,22
+Tuson,4.0,1
+Westampton,2.5,6
+Fairview Village,4.0,2
+Lithia,3.0,7
+Salem,4.0,3
+Bethalto,4.5,1
+Hockessin,1.5,3
+Isla Vista,3.0,9
+Lahaska,2.0,2
+Sherwood Park,4.0,32
+Antioch,3.5,23
+Devon,3.5,12
+Pleasant View,4.5,5
+East St Louis,3.5,1
+Smyrna,2.0,22
+PHILADELPHIA,3.0,1
+Croydon,4.0,13
+Elmwood,4.0,2
+Mooresville,4.5,11
+boise,4.5,1
+Saint Pete Beach,3.5,6
+Wood River,2.5,2
+South Tucson,3.0,1
+Richmond Heights,3.5,15
+Essington,2.5,3
+Bordentown,3.0,8
+Seminole,1.0,2
+Pemberton,4.5,1
+Maplewood,4.5,29
+Carmel,1.0,3
+Mullica Hill,2.5,5
+Lansdowne,5.0,1
+Gallatin,2.0,13
+Ewing Township,5.0,2
+Woodbury,1.5,3
+Plymouth Meeting,3.5,25
+Jenkintown,3.5,30
+Douglassville,4.0,1
+Saint Charles,3.0,19
+New Jersey,3.5,1
+St. Pete,4.0,1
+Beverly,2.0,1
+Whitestown,1.5,2
+La Vergne,2.5,6
+Claymont,2.0,5
+Blackwood,4.5,13
+Chadds Ford,1.5,2
+Metairie,3.5,237
+Franconia,2.5,1
+Colmar,3.5,8
+Meadowbrook,3.0,1
+Chesterbrook,3.5,1
+Mansfield,4.5,1
+Land O' Lakes,5.0,4
+​Largo,5.0,1
+Collegeville,1.5,4
+Runnemede,4.5,2
+New Palestine,5.0,1
+Penns Grove,4.5,1
+Pennsauken Township,4.0,5
+Lansdowne,2.5,5
+Kennett Square,1.0,1
+National Park,4.0,1
+Lafayette Hill,2.0,2
+Boothwyn,1.5,4
+Bucks,3.0,1
+Medford,4.0,25
+Glenolden,3.0,7
+Belle Chasse,3.0,2
+Malvern,3.5,34
+nolensville,4.0,1
+Lafayette Hill,3.5,13
+Colmar,2.5,4
+sewell,4.0,1
+Cumberland,4.0,1
+Wycombe,3.5,1
+Kenneth City,4.0,8
+St. Albert,2.0,2
+Lionville,3.5,1
+Tierra Verde,5.0,3
+Indianapolis,1.0,43
+Tren,3.0,1
+Plainfield,5.0,5
+Swansea,1.5,2
+Black Jack,2.5,1
+Ardmore,3.0,22
+Bellevue,3.5,3
+East Norriton,3.0,4
+Roslyn,4.0,1
+King Of Prussia,1.0,1
+West Trenton,3.5,1
+Mooresville,5.0,3
+Newtown Square,1.5,2
+Florissant,3.5,35
+Creve Coeur,2.0,8
+Saint Louis,4.5,646
+Haddon Township,4.0,13
+Gilbertsville,2.5,4
+Hendersonville,1.0,2
+Havertown,2.0,9
+Folcroft,5.0,2
+Sparks NV,4.5,1
+Indian Shores,4.0,7
+Devon,2.5,3
+West Conshohocken,2.0,2
+New Port Richey,3.5,70
+Burlington,3.0,16
+Trappe,4.0,3
+River Ridge,3.5,7
+Kenneth City,3.5,7
+Plymouth Meeting,2.0,14
+Joelton,5.0,1
+West Chester,5.0,30
+Spring City,3.5,8
+Folcroft,4.5,3
+Dublin,4.0,4
+Glassboro,2.5,14
+Roebling,4.0,2
+Burlington,4.0,23
+Flourtown,2.5,5
+NEW PORT RICHEY,2.5,1
+St. Louis,2.0,44
+largo,3.5,1
+Hernando Beach,3.0,2
+Tampa Bay,1.5,1
+Chester,2.0,3
+Pontoon Beach,3.0,2
+Ferguson,3.0,2
+Whiteland,2.0,1
+Palm Harbor,3.0,55
+Gwynedd,4.0,1
+Catalina,4.0,1
+Florissant,5.0,5
+Ivyland,2.5,1
+Des Peres,4.5,14
+Santa Barbara ,5.0,3
+Overland,5.0,1
+Dunedin,4.0,79
+Eagle,4.0,41
+Lindenwold,2.0,2
+Ewing,4.5,5
+Philadelphia,3.0,1270
+Camby,1.5,3
+Logan Township,3.0,1
+Hazelwood,2.5,8
+Devon,4.5,4
+Hamilton Township,3.0,4
+Lawnside,3.0,4
+Sun Valley,2.0,3
+Saint Davids,2.5,1
+Lithia,5.0,1
+Boise,3.5,346
+Godfrey,4.0,6
+Ridley Park,2.5,2
+Boise,4.0,413
+La Vergne,3.0,3
+Franklinville,3.0,2
+Tampa,1.5,226
+Brandon,1.5,20
+McCordsville,4.0,4
+Perkiomenville,3.5,3
+Hermitage,5.0,8
+Gibsonton,5.0,3
+North Redington Bch,5.0,1
+Lawrence,5.0,1
+Lionville,2.0,1
+Ashland City,2.0,1
+Kenner,1.0,1
+Catalina,3.5,2
+Sicklerville,4.5,13
+Montecito,2.5,2
+Quakertown,2.5,3
+Sellersville,4.5,4
+Oldmans,2.5,1
+Kulpsville,1.5,1
+Doylestown,4.0,77
+Olivette,2.0,4
+Haddon Heights,4.5,9
+Collinsville,3.5,15
+Swedesboro,2.5,7
+Jeffersonville,2.5,1
+Glendora,3.5,2
+Kirklyn,3.5,1
+Mount Laurel Township,5.0,1
+Gallatin,4.5,7
+Jenkintown,4.0,32
+Lansdale,5.0,13
+Sunset Hills,3.5,9
+King of Prussia,3.5,88
+Lithia,2.5,7
+Hamilton Township,3.5,3
+Maryville,5.0,2
+Moorestown,4.0,31
+Fairview Hts.,2.5,1
+Camby,3.5,3
+Bordentown,3.5,19
+Inglewood,2.0,1
+West Edmonton,3.5,1
+Conshohocken,4.5,36
+New Castle,5.0,3
+Philadephia,1.0,1
+NASHVILLE,4.0,1
+Glenolden,4.0,6
+Chadds Ford,3.0,6
+Broomall,2.0,11
+Pike Creek,4.0,2
+Willow Grove,2.5,21
+Belleair Blf,3.5,1
+Brownsburg,1.5,6
+Turnersville,4.0,16
+Oaks,4.5,2
+Saint Petersburg,1.0,7
+Smyrna,4.5,31
+Garden City,2.5,5
+Arabi,3.5,2
+Imperial,2.5,1
+St Charles,3.5,18
+Bel Ridge,3.5,1
+Upper Darby,2.0,9
+Wayne,3.5,54
+Port Richey,1.5,4
+Mount Laurel,2.5,27
+Wilmington,1.0,12
+Overland,4.0,8
+Goodlettsville,2.5,13
+Green Valley,2.5,7
+Swarthmore,2.5,4
+LITHIA,2.0,1
+St. Davids,3.0,3
+"Saint Petersburg,",2.5,1
+Elverson,2.5,1
+Berkeley,2.5,2
+North Wales,1.5,10
+Holmes,5.0,1
+Hudson,2.0,10
+Richboro,4.0,14
+Swarthmore,3.5,6
+Valrico,4.5,30
+Ballwin,4.0,35
+Feasterville Trevose,3.0,7
+Hampton,2.5,1
+O Fallon,5.0,1
+Gilbertsville,4.0,2
+Devon,5.0,2
+Norwood,4.5,3
+Oakville,2.5,1
+Chalmette,4.5,9
+Sewell,4.5,15
+West Trenton,4.0,1
+Media,1.5,2
+Hendersonville,1.5,11
+Edwardsville,2.0,10
+Skippack,5.0,3
+Vail,3.0,10
+Atco,2.0,1
+Warrington,4.0,26
+Trinity,3.0,13
+Rose Valley,2.5,1
+Cedar Brook,2.5,1
+Perkasie,3.0,10
+Green Valley,4.0,10
+Green Valley,2.0,11
+Pottstown,3.5,33
+Haddon Township,1.5,1
+Berry Hill,4.0,1
+Kenneth City,2.0,1
+TAMPA AP,2.0,1
+St Petersburg,2.0,15
+Harahan,4.5,14
+Fenton,3.5,37
+Wayne,1.0,1
+San Antonio,5.0,2
+East Nashville,3.5,1
+Pitman,2.0,2
+Perkasie,5.0,2
+Abington Township,4.0,2
+Hernando Bch,4.0,1
+Yardley,4.5,18
+Silverdale,1.0,1
+Greenbrier,2.0,1
+Belleville,2.0,15
+Tucson,5.0,442
+Nixa,2.5,1
+Corona de Tucson,4.0,1
+NEW ORLEANS,4.5,1
+Drexel Hill,5.0,7
+Crum Lynne,1.5,1
+Schwenksville,2.5,1
+Kingston Springs,4.5,4
+Carversville,3.5,1
+North Wales,3.0,40
+Doylestown,2.5,35
+St.Petersburg,5.0,1
+Hammonton,3.5,3
+Virginia City,4.0,9
+Oaks,2.0,2
+Primos,3.5,1
+Prospect Park,4.0,11
+St Charles,2.5,8
+Gloucester City,1.0,1
+Madison,2.0,21
+Mendenhall,3.5,2
+Zionsville,1.5,3
+Masaryktown,5.0,1
+Saint Rose,5.0,1
+Royersford,4.0,16
+Paoli,4.5,15
+Nashville,1.5,165
+Mt. Juliet,2.5,7
+Woodlyn,2.0,2
+Webster Groves,5.0,11
+Darby,2.0,1
+Paoli,3.0,17
+Nevada,4.5,1
+Cornwells Hts,1.0,1
+Glenside,2.5,10
+West Chester,1.0,1
+Haverford,4.5,5
+Willingboro,5.0,4
+Catalina,2.5,1
+Saint Rose,4.5,1
+Speedway,2.0,3
+Norristown,2.0,23
+Santa Barbara,1.0,5
+Brookhaven,2.0,6
+Woodbury,4.5,9
+Jenkintown,3.0,17
+Seminole,3.0,34
+Hockessin,3.5,14
+Hudson,3.0,17
+Sherwood Park,2.5,17
+Feasterville-Trevose,3.5,9
+Knoxville,3.0,1
+Seffner,4.5,11
+Morrisville,3.0,7
+Collinsville,1.5,6
+Camden,2.0,1
+Avondale,1.0,1
+Upper Darby,2.5,13
+Mount Laurel,4.5,30
+Trevose,1.0,1
+Maple Glen,4.5,7
+Newtown,1.5,3
+Magnolia,4.0,4
+Woodbury,2.5,13
+Avondale,2.5,4
+franklin,4.5,1
+Schwenksville,4.0,9
+Shiloh,3.0,5
+Spanish Springs,3.5,5
+Land O'Lakes,1.5,1
+TUCSON,5.0,2
+La Vergne,5.0,2
+Warminster,2.0,14
+Mt. Ephraim,3.0,1
+Meraux,4.5,1
+North Redington Beach,3.5,5
+Flourtown,4.5,1
+Marrero,4.5,14
+Lafayette Hill,3.0,3
+Gibbsboro,4.5,1
+Greenwood,4.0,85
+Sellersville,2.5,2
+Monroeville,4.5,2
+Montgomery,4.5,1
+St Boise,2.5,1
+Collegeville,5.0,9
+North Redington Beach,4.0,3
+Oreland,3.0,2
+Penns Grove,1.5,1
+Mt Laurel,4.0,1
+Brentwood,3.0,76
+Chester Heights,4.0,1
+New Britain,3.0,1
+Pennsville,5.0,1
+Boise,3.0,209
+Hermitage,3.0,26
+Pennsville Township,3.5,1
+Old Hickory,4.5,12
+Peerless Park,1.0,1
+Caseyville,3.0,2
+Medford,3.0,22
+Land O'lakes,1.5,1
+Drexel Hil,4.0,1
+Willow Grove,1.5,7
+Hatfield,5.0,5
+Saint Petersburg,3.0,102
+Camden,4.5,15
+Bensalem,2.5,55
+Trappe,4.5,5
+Harahan,3.5,18
+Mansfield,2.5,1
+Lambertville,4.5,19
+Metarie,2.5,2
+Stratford,3.0,2
+River View,5.0,1
+Westville,4.5,3
+Bryn Mawr,1.5,1
+Pennsauken,4.0,18
+Swansea,5.0,2
+Blackwood,1.5,3
+Gibbstown,4.5,2
+Mount Holly,2.5,9
+Oldsmar,4.0,56
+Spring Hill,5.0,10
+Cornwells Heights,2.5,1
+Carmel,3.5,135
+St Albert,3.0,7
+Brentwood,5.0,31
+Gardenville,4.0,1
+Pine Forge,3.5,1
+Spanish Springs,4.5,1
+Swedesboro,4.5,4
+East Alton,3.5,1
+Mt  Juliet,2.0,1
+Media,2.5,21
+Westchase,4.0,4
+Pinellas Park,2.0,25
+Antioch,2.5,18
+Warminster,2.5,21
+Pemberton,3.0,1
+Somerdale,5.0,2
+Cheltenham,2.5,4
+Swarthmore,5.0,1
+Hillsborough County,4.0,1
+Upper Darby,5.0,6
+Plainfield,2.0,22
+Kenner,2.5,42
+Gallatin,4.0,16
+Glen Mills,4.0,28
+Ivyland,4.5,1
+Sharon Hill,4.5,2
+Kennett Square,4.0,27
+Pinellas park,4.0,1
+Saint Charles,4.5,36
+Southwest Tampa,3.5,1
+Kimmswick,3.5,1
+Yardley,2.5,7
+Bensalem,1.0,3
+Yardley,4.0,25
+Hockessin,4.0,17
+Talleyville,5.0,1
+S.Pasadena,1.5,1
+Skippack Village,5.0,1
+Berwyn,1.0,1
+MANCHESTER,2.0,1
+Horsham,2.5,8
+Clearwater Beach,2.0,4
+Brentwood,2.5,52
+Oaklyn,4.5,8
+Southampton,1.0,3
+Mount Holly,4.5,10
+Philadephia,2.0,1
+Riverview,4.0,82
+Bala Cynwyd,4.5,13
+Lawnside,2.5,3
+Smyrna,5.0,10
+Elmwood,5.0,2
+Bensalem Township,3.5,2
+Pine Hill,1.5,1
+Apollo Beach,5.0,4
+Woodbury Heights,3.0,1
+Florence,4.5,1
+Haverford,3.0,5
+Saint Albert,2.5,1
+Elkins Park,4.0,20
+East Alton,3.0,3
+Phoenixville,4.0,51
+Camby,2.0,4
+LARGO,3.0,1
+Pontoon Beach,4.5,2
+Moorestown,2.0,6
+West Trenton,2.0,1
+Gallatin,3.5,10
+Sahuarita,1.5,3
+Harahan,2.0,6
+Palm Harbor,1.0,1
+Sauget,2.0,1
+Merion Station,5.0,2
+Greenfield,2.5,2
+Indiana,2.5,1
+Newtown,3.0,39
+Ardmore,2.0,9
+North Redington Bch,4.0,1
+Collinsville,2.0,9
+Sewell,3.0,22
+Tampa Bay,4.5,29
+Ardmore,4.0,63
+Lemay,1.5,1
+Elverson,4.0,1
+Pleasant View,4.0,2
+St. Charles,3.0,11
+Clermont,5.0,1
+Mulberry,4.5,1
+New Britain,4.5,2
+Tampa Bay,2.5,3
+Rillito,3.5,1
+Runnemede,2.0,1
+Seminole,2.0,9
+Buckingham,3.5,4
+Media,3.5,49
+Washington Park,3.5,1
+Franklinville,1.5,1
+St Petersburg,1.5,5
+Land O' Lakes,4.5,12
+Wimauma,5.0,1
+Oakville,3.0,2
+Tarpon Springs,3.0,34
+Sewell,2.0,8
+Clearwater/ Countryside,4.0,1
+Catalina,4.5,1
+High Ridge,4.0,6
+Warrington,2.5,28
+Hudson,4.0,24
+Odessa,4.0,12
+Strafford,4.5,1
+Rock Hill,4.5,2
+Rosemont,4.0,1
+Dresher,2.5,6
+Joelton,3.0,1
+PHILA,3.0,1
+Feasterville Trevose,2.5,6
+Catalina Foothills,5.0,2
+Noblesville,2.0,2
+Deptford Township,2.0,5
+New Britain,2.0,1
+Clearwater Beach,1.0,1
+St. Louis County,3.5,1
+Clayton,5.0,14
+Bridgeport,4.0,11
+Ladue,5.0,1
+Valley Park,3.0,7
+Woodlyn,2.5,1
+Warrington,1.5,4
+Belle Chasse,2.0,1
+Hamilton,2.5,5
+Bridgeton,2.5,18
+Brookhaven,3.0,8
+Maryland Heights,5.0,6
+Plainfield,4.5,25
+"Maryland Height, MO",5.0,1
+Haddonfield,3.5,20
+Boise (Meridian),2.5,1
+Arden,4.5,1
+Montecito,1.0,1
+Ambler,4.0,39
+Rock Hill,4.0,4
+Cheltenham,5.0,2
+Hatfield,3.5,19
+Treasure Island,4.5,16
+Chesterfield,4.5,20
+Overland,1.5,2
+Beech Grove,2.0,1
+Lebanon,3.0,4
+Seffner,3.0,12
+Bryn Mawr,3.5,40
+Fairless Hills,1.5,2
+Thonotosassa,4.5,5
+Speedway,2.5,4
+Eagle,4.5,44
+Olivette,5.0,1
+Glenolden,3.5,5
+Godfrey,5.0,2
+Belle Meade,4.0,3
+Rockledge,2.5,1
+Arnold,2.5,18
+North Wales,5.0,9
+Trooper,4.5,1
+Bargersville,4.0,2
+Westtown,5.0,1
+Doylestown,3.5,63
+TEMPLE TERR,4.5,1
+Greenbrier,4.5,2
+Ruskin,1.0,1
+Abington,2.5,15
+Madison,5.0,6
+Conshohocken,1.5,6
+KIRKWOOD,2.5,1
+Dresher,5.0,1
+Sun City Center,4.5,2
+Town 'N' Country,4.5,1
+Madison,4.0,29
+Trinity,3.5,11
+Columbus,4.5,4
+Blue Bell,1.5,2
+Meridian,2.5,59
+Langhorne,5.0,8
+Old Hickory,3.5,7
+Collingswood,4.0,33
+Bryn Mawr,4.0,45
+Marlton,4.0,66
+Haddonfield,5.0,7
+Maryland Heights,4.0,21
+New Hope,2.5,15
+Ewing,1.5,3
+Ruskin,4.0,19
+Voorhees,4.5,11
+ST. PETE BEACH,3.5,1
+Manchester,1.5,3
+Nashville,3.0,585
+Bucks County,4.0,1
+Olivette,4.5,3
+Elkins Park,5.0,6
+Ridley Park,5.0,4
+Kirkwood,2.5,15
+Edgewater Park,2.5,1
+Deptford,2.5,13
+Dunedin,2.5,20
+Tabernacle,3.5,2
+Sewell,2.5,11
+Feasterville-trevose,3.0,1
+Goodlettsville,3.5,14
+Zieglersville,3.5,1
+Fox Street,3.0,1
+New Castle,2.5,13
+Mooresville,2.0,4
+Wynnewood,3.0,16
+Montgomeryville,1.0,2
+Sappington,5.0,2
+Oaklyn,4.0,6
+Clementon,4.0,9
+Deptford,2.0,10
+Mt Laurel Township,1.5,1
+Kimmswick,4.5,1
+Pottstown,4.0,34
+Plumsteadville,5.0,1
+Flourtown,1.5,5
+Maryland Heights,2.5,19
+Saint Rose,3.5,1
+kenner,4.0,1
+Elmer,4.5,2
+Seminole,5.0,20
+O'Fallon,1.5,4
+Fairless Hills,2.5,28
+Line Lexington,3.0,3
+Land O Lakes,3.0,8
+Tarpon Springs,2.5,16
+Solebury,3.5,1
+Scott AFB,3.0,1
+Washington Township,4.0,4
+Holland,3.5,2
+Lindenwold,5.0,4
+Stead,3.5,1
+Whites Creek,4.5,2
+Pipersville,3.5,5
+Wenonah,2.0,2
+Delanco,4.0,1
+Blue Bell,3.5,37
+University City,3.0,6
+Had Twp,4.5,1
+Town and Country,2.0,1
+Aston,2.0,2
+Gladwyne,3.5,2
+Glassboro,1.5,4
+Beverly,4.0,4
+Godfrey,3.0,3
+Belle Chasse,3.5,8
+Redington Shores,4.0,8
+Plant City,1.0,2
+Mt. Holly,2.5,1
+Saint Ann,5.0,2
+Manchester,4.5,15
+Milmont Park,4.0,2
+Ivyland,4.0,2
+North Wales,3.5,39
+Eagle,3.5,44
+Philadelphia,5.0,784
+Boise,2.5,177
+Norristown,4.0,66
+Antioch,1.0,5
+AVON,3.5,1
+Moorestown,1.0,1
+Wood River,2.0,2
+West Point,3.5,2
+Brownsburg,3.5,28
+Murfreesboro,4.0,1
+Wyncote,4.5,1
+Collinsville,4.0,19
+Vail,2.0,1
+Greenville,3.5,2
+Folsom,2.5,5
+Exton,1.0,2
+South Cherry Hill,2.5,1
+Cinnaminson,3.5,18
+Edgemont,2.0,1
+Mullica Hill,1.5,1
+Fairview Heights,4.5,13
+Coatesville,3.5,1
+Summerland,3.0,1
+High Ridge,3.0,7
+Berwyn,1.5,1
+Delran,2.5,7
+Ewing,4.0,26
+Redingtn Shor,3.5,1
+Caseyville,4.5,5
+Glendora,2.5,2
+Plumsteadville,4.0,2
+Rillito,4.5,1
+Swarthmore,2.0,1
+Frazer,3.5,8
+Hollywood,2.0,1
+La Vergne,4.0,8
+RADNOR,4.0,1
+Lansdale,4.0,53
+Mascoutah,4.5,1
+Coatesville,4.5,1
+Pennsauken,3.5,14
+Salem,3.0,1
+Abington,2.0,8
+Ruskin,2.0,6
+Audubon,2.0,9
+Bellevue,1.5,1
+Crum Lynne,4.0,1
+Fort Washington,1.0,1
+Marrero,2.5,5
+Phoenixville,1.0,3
+Richboro,2.0,2
+Maple Shade Township,4.5,4
+Belle Chasse,1.5,1
+Edwardsville,3.5,51
+new orleans,5.0,1
+Ambler,4.5,26
+Palmyra,2.0,1
+Broomall,5.0,8
+Wesley Chapel,4.5,42
+Wyncote,1.5,3
+Pipersville,3.0,2
+Ballwin,3.0,19
+Sassamansville,2.0,1
+Mount Laurel,4.0,39
+Harleysville,2.0,3
+Collegeville,3.0,21
+Laurel Springs,3.5,4
+Harahan,4.0,23
+East Saint Louis,2.5,3
+Springfield,5.0,4
+Seffner,4.0,12
+Bethel,4.0,1
+Chesterfield,4.0,23
+Ballwin,2.0,11
+French Quarter,4.5,1
+Willow Grove,3.0,36
+Shrewsbury,3.0,1
+Barrington,3.0,2
+Tortola,2.5,1
+Downingtown,1.5,7
+Colmar,3.0,4
+Brentwood,1.0,3
+Avondale,4.5,2
+Glen Mills,1.5,3
+Zephyrhills,2.0,2
+Kingston Springs,2.5,1
+Indianapolis,4.5,1119
+Hatfield,3.0,5
+Coatesville,5.0,1
+Medford,2.0,4
+Thorndale,5.0,1
+North Wales,4.5,25
+Mercerville,3.5,2
+Sun City,3.0,1
+Rock Hill,3.0,1
+Lansdowne,3.0,7
+Indian Rocks Beach,1.5,1
+Stratford,4.5,3
+Bridgeport,5.0,1
+Sewell,1.5,2
+Westampton,2.0,2
+East St. Louis,3.0,1
+BRANDON,2.5,1
+Pleasant View,3.5,4
+Granite City,4.0,10
+Norristown,5.0,16
+Merion Station,3.5,2
+Lithia,2.0,1
+Radnor,4.5,2
+Tuscon,3.5,1
+Sun Valley,4.5,3
+Gilbertsville,1.5,3
+Maryville,3.0,1
+Madison,1.0,1
+Sicklerville,4.0,11
+Oro Valley,2.0,8
+Carmel,2.5,53
+King of Prussia,4.5,30
+Maple Shade,4.5,17
+Clearwater Beach,5.0,4
+Mehlville,4.0,1
+East Alton,4.5,2
+Marana,3.0,16
+Smyrna,1.5,13
+Zephyrhills,3.5,19
+Deptford Township,3.0,5
+Mount Juliet,1.5,4
+Penndel,3.5,4
+Wood River,3.0,3
+Sharon Hill,2.5,1
+Hatboro,5.0,4
+Audubon,2.5,11
+Moorestown,3.5,28
+Christiana,3.5,3
+Sherwood Park,3.0,19
+Turnersville,1.5,9
+Voorhees Township,4.0,8
+Palm Harbor,2.0,16
+Lebanon,4.0,4
+Toughkenamon,3.0,2
+Garnet Valley,2.5,1
+Tinicum Township,1.0,1
+Harahan,1.5,4
+Spring Hill,4.5,35
+Gallatin,2.5,14
+Warminster,5.0,8
+St. Louis,1.5,29
+St. Petersberg,3.0,1
+Greater Northdale,4.5,1
+Jamison,4.0,4
+Hendersonville,3.0,40
+Voorhees,1.5,5
+West Berlin,5.0,3
+Woodbury,2.0,11
+Fenton,3.0,30
+Horsham,2.0,12
+Brooklawn,3.5,3
+Plumsteadville,2.0,1
+Alton,2.0,7
+Town & Country,5.0,1
+Ewing Township,4.0,6
+Camden,1.5,4
+Zionsville,4.5,36
+Antioch,1.5,17
+Laurel Springs,5.0,1
+Seffner,2.0,8
+Riverside,3.5,2
+Mullica Hill,2.0,1
+Saint Louis,1.0,27
+Lower Gwynedd Township,3.5,2
+St. Charles,3.5,16
+Eagle,5.0,29
+Newtown square,2.0,1
+Tuscon,4.0,4
+Upper Southampton Township,4.0,1
+Dade City,3.0,1
+Pilesgrove,3.5,2
+New Whiteland,2.5,1
+Terrytown,5.0,1
+Eastampton,3.0,1
+Cane Ridge,3.0,1
+Nolenville,5.0,1
+Malaga,3.5,1
+Gibsonton,3.0,1
+Feasterville-Trevose,1.0,1
+Oro Valley,4.0,49
+Manchester,3.0,15
+Runnemede,4.0,12
+Creve Couer,2.0,1
+Norristown,3.0,38
+La Vergne,3.5,12
+Woolwich Township,3.5,2
+Lester,4.5,2
+Middletown,3.0,1
+Ashland City,4.5,2
+River Ridge,4.0,10
+St Louis,2.5,24
+Ridley,2.5,1
+Sumneytown,4.5,1
+Bayonet Point,3.0,1
+Kulpsville,4.5,3
+Strafford,2.0,1
+Lithia,4.5,4
+Redingtn Shor,4.5,1
+Creve Coeur,4.0,28
+Pennsauken Township,2.5,1
+Godfrey,2.0,1
+Monroeville,3.0,1
+Edgewater Park,4.0,2
+LOWER PROVIDENCE,5.0,1
+Town and Country,5.0,2
+Radnor,5.0,1
+Jamison,2.0,2
+Deptford Township,5.0,1
+West Chester,3.5,102
+Wyncote,3.0,7
+Boothwyn,2.0,2
+Roslyn,4.5,3
+Woodbury,3.0,15
+Newport,2.0,1
+Havertown,5.0,14
+Sparks,4.5,224
+Indianapolis,3.5,902
+Mooresville,2.5,3
+Gallatin,5.0,3
+Hainesport,5.0,1
+Clifton Heights,1.5,4
+Reno,4.5,982
+Trenton,2.0,10
+St. Peters,5.0,1
+Truckee,4.0,2
+Lutz,2.0,19
+New Britain,5.0,1
+Garnet Valley,4.0,6
+Erdenheim,3.5,3
+Bellmawr,3.0,6
+Ferguson,2.5,1
+Berkeley,1.5,1
+Southampton,3.0,16
+Hamilton Township,4.5,4
+St Petersburg,4.0,58
+Brooklyn,3.0,1
+Winslow,3.0,1
+Folcroft,3.0,1
+Imperial,2.0,2
+Carpinteria ,5.0,1
+Laurel Springs,4.5,1
+Washington,3.0,1
+Brownsburg,2.0,6
+Springfield,1.5,14
+Oreland,3.5,2
+Newark,1.5,9
+Greenbrier,2.5,1
+Bristol Twp,4.5,1
+Ardmore,3.5,60
+Riverside,4.0,3
+Tampa,2.5,550
+Kenner,4.0,60
+Boothwyn,4.0,4
+Clifton Heights,4.5,5
+Erdenheim,2.5,3
+Yorklyn,5.0,1
+Hammonton,3.0,1
+Kng Of Prusia,1.0,1
+Exton,3.0,44
+Berkeley,3.5,2
+Town And Country,3.0,1
+Ashland,3.0,1
+Mooresville,4.0,7
+Lutz,3.0,40
+High Ridge,3.5,2
+SANTA BARBARA,4.0,1
+Primos,4.0,2
+Lynnfield,1.5,1
+"Nashville,",4.5,1
+Salinas,3.5,1
+Erdenheim,2.0,1
+Ewing,1.0,3
+Beech Grove,4.0,6
+sparks,3.5,1
+Riverview,4.5,55
+Rosewood Heights,5.0,1
+Riverview Fl,4.0,1
+Ruskin,1.5,2
+Chester Springs,3.5,13
+Pitman,4.0,8
+Marana,3.5,15
+Indianapolis,5.0,338
+Thorofare,4.5,2
+Mount Ephraim,2.0,1
+Edmonton,3.0,384
+Meridian,2.0,39
+Evesham,3.0,4
+National Park,4.5,1
+Greenbrier,4.0,3
+Wimauma,2.0,1
+South Reno,3.5,1
+Rockledge,3.0,1
+Kulpsville,5.0,1
+Newtown Square,2.5,12
+Edwardsville,1.5,6
+Alton,2.5,9
+Pass-a-Grille Beach,4.5,2
+Clearwater,2.5,140
+Chesilhurst,4.0,2
+Tierra Verde,2.5,1
+Hendersonville,2.5,40
+Reno,4.0,839
+Pine HIll,3.5,1
+Primos,4.5,2
+Jobstown,4.0,1
+Pennsauken,2.5,7
+Coatesville,1.5,2
+Evesham,2.0,3
+Greenwood,3.0,70
+Largo,4.0,142
+Essington,2.0,8
+Camby,3.0,8
+Medford,4.5,24
+Rushland,4.5,1
+Huntingdon Valley,2.5,13
+Saint Charles,2.5,27
+North Redington Beach,4.5,6
+Maple Glen,2.5,1
+Beech Grove,4.5,7
+New Castle,3.5,24
+East Norriton,2.0,5
+Southampton,2.0,8
+Pipersville,2.0,1
+East Norriton,4.0,13
+Richboro,3.5,8
+clearwater,4.5,1
+Woodbury Heights,2.0,2
+Smithton,3.5,1
+Belleair Blf,4.0,1
+Apollo Beach,1.5,1
+Swansea,4.0,4
+Berlin,3.0,8
+Meridian,1.5,17
+Mantua,5.0,1
+PINELLAS PARK,2.5,1
+Alton,4.5,18
+Aldan,4.5,2
+Ballwin,3.5,42
+Quakertown,4.0,10
+Kimberton,3.5,1
+Mount Juliet,3.5,40
+Sunset Hills,4.5,3
+Glenolden,2.0,2
+Broomall,1.5,1
+Gloucester City,2.0,1
+Mount Royal,4.5,1
+EdMonton,3.5,2
+Unionville,3.5,1
+Hendersonville,4.0,73
+Franklinville,4.0,3
+Arabi,5.0,2
+Chalmette,1.5,1
+Marrero,2.0,5
+Pennington,3.5,1
+Pilesgrove,2.0,1
+West Deptford,4.5,4
+HUdson,3.5,1
+Schwenksville,3.5,5
+New Orleans,4.0,1285
+Columbia,2.5,1
+Southwest Philadelphia,2.0,1
+Tierra Verde,4.5,10
+Richmond Heights,5.0,1
+Speedway,5.0,3
+Pottstown,1.0,1
+Spring Hill,4.0,48
+Hatfield,4.5,10
+Doylestown,5.0,26
+Carneys Point,3.0,3
+Balm,4.5,1
+King of Prussia,2.0,25
+Prospect Park,2.5,3
+Penndel,5.0,1
+Shrewsbury,1.5,1
+Terrytown,2.5,4
+Morton,4.0,4
+Glen Mills,3.0,23
+Creve Coeur,1.5,1
+Avon,4.5,30
+Horsham,4.5,13
+Cinnaminson,4.5,11
+Telford,2.5,1
+St. Rose,4.5,1
+Newfield,4.5,2
+Brooklawn,3.0,4
+Belleair Bluffs,3.0,1
+Nolensville,3.5,12
+Quakertown,2.0,2
+Chalfont,3.0,15
+Bridgeton,1.5,11
+Chalmette,1.0,1
+Penndel,1.5,2
+Tampla,3.5,1
+Mullica Hill,3.0,3
+Sunset Hills,4.0,3
+Madeira Beach,2.5,6
+East Nashville,4.0,1
+Holmes,1.5,3
+Spruce Grove,4.0,1
+Creamery,4.5,1
+Exton,4.0,36
+Aldan,2.5,1
+Glenmore,4.0,1
+Burlington Township,2.0,2
+Sun City,2.0,1
+Verdi,5.0,1
+Maple Shade,2.5,14
+Upper Chichester,4.5,2
+Boothwyn,3.0,1
+Glenmoore,2.0,1
+Plumsteadville,4.5,2
+Indian Shores,4.5,7
+St. Charles,2.5,11
+Saint Louis ,4.5,1
+Morrisville,5.0,1
+Ridley Park,3.0,2
+Upper Darby,3.5,22
+Talleyville,4.0,1
+Phoenixville,1.5,7
+Woodbury,3.5,23
+Franklin,3.0,112
+Andalusia,4.5,1
+LANSDALE,2.5,1
+Quakertown,4.5,12
+Glenside,2.0,4
+Indianapolis,1.5,198
+Tarpon Springs,3.5,52
+Haddon Township,4.5,10
+Mantua Township,3.5,1
+Malaga,1.5,1
+Luling,5.0,1
+Overland,4.5,3
+Woodlyn,1.5,1
+Chadds Ford,3.5,13
+Town And Country,3.5,1
+Springfield,4.0,30
+Glen Carbon,2.5,7
+Pinellas Park,1.5,13
+Franklinville,3.5,3
+Mt Laurel Township,4.5,1
+Kennett Square,3.5,25
+Croydon,4.5,4
+Stratford,4.0,8
+Sahuarita,3.5,7
+Danville,3.0,1
+Jamison,5.0,2
+Pine Hill,3.5,3
+Mt. Airy,4.5,1
+Flourtown,2.0,3
+Horsham,3.0,22
+Boise ,4.5,1
+Brookhaven,1.0,1
+Southeast Edmonton,4.5,1
+Chalmette,2.5,10
+tucson,3.5,1
+East Saint Louis,4.0,1
+Tierra Verde,4.0,5
+Marrero,1.5,4
+Tuscon,2.5,2
+Collegeville,2.5,21
+Largo,5.0,35
+Shiloh,3.5,9
+Woodlyn,5.0,2
+Fairview Heights,3.0,36
+Jennings,4.0,1
+Maple Shade,2.0,15
+Clearwater,2.0,90
+Holiday,5.0,3
+Bear,3.5,2
+St Louis,3.0,30
+Evesham Township,3.5,5
+Brandon,2.5,101
+Narberth,4.0,18
+Prospect Park,5.0,2
+Dover,5.0,1
+Folsom,4.0,21
+Folsom,1.5,2
+Telford,5.0,1
+Pennsville Township,5.0,1
+White House,1.5,4
+Clearwater,4.0,330
+Lambertville,1.5,1
+Coatesville,2.0,3
+Oldsmar,3.5,44
+Columbus,3.5,4
+Palmetto,4.5,2
+Danboro,3.0,1
+Brownsburg,5.0,7
+Lakeland,4.5,1
+Temple Terrace,4.0,15
+Saint Pete Beach,5.0,3
+Mount Laurel,2.0,24
+Bennington,4.5,1
+Glenoldan,4.5,1
+Clayton,2.5,7
+Gretna,4.5,29
+Bellmawr,2.0,2
+Pennsauken,3.0,14
+Penn Valley,2.0,1
+Eagle,2.5,7
+University City,3.5,25
+Roslyn,2.5,1
+Castleton,4.0,2
+Telford,4.0,8
+Trenton,3.5,46
+Oro Valley,1.5,2
+LANSDALE,4.0,1
+Mount Laurel,3.5,50
+Ladue,3.5,5
+Tampa,2.0,340
+Lambertville,4.0,26
+Turnersville,3.5,14
+Chichester,3.5,1
+Runnemede,3.0,7
+Sullivan,3.0,1
+Marlton,3.0,40
+Hermitage,4.0,24
+Fairview Hts.,2.0,1
+Westwego,4.0,9
+Oaks,1.5,2
+Clementon,4.5,6
+Glassboro,1.0,1
+Goodlettsville,1.0,1
+Drexel Hill,4.5,21
+Tampa,3.5,1120
+Frazer,5.0,2
+Folsom,3.5,8
+Berwyn,2.5,4
+Merion Station,4.0,4
+Limerick,1.5,2
+MADISON,2.0,1
+Mount Holly,3.0,8
+PHILA,4.5,1
+Elmwood,1.5,1
+Camby,2.5,2
+Malvern,1.5,8
+Tucson,4.5,1181
+Goleta,4.0,139
+Nashville,2.5,394
+Primos-Secane,2.5,1
+Media,4.5,51
+Berlin,4.0,11
+Delran,3.5,14
+Sharon Hill,1.5,1
+Chestnut Hill,3.5,1
+Kingston Springs,3.5,2
+Saint Petersburg,4.5,252
+Largo,3.5,113
+St. Ann,1.5,1
+Harvey,3.0,28
+Rock Hill,2.0,3
+Fairview Hts,2.0,1
+Langhorne,4.5,21
+Glenolden,2.5,5
+Vail,4.0,4
+Manchester,3.5,11
+Woodstown,1.5,1
+Franklin,2.5,109
+Chadds Ford,4.0,16
+Breckenridge Hills,1.5,1
+Warminster,4.5,30
+Verdi,3.0,1
+Indian Rocks Beach,1.0,1
+St Albert,2.5,4
+Bordentown,2.0,2
+Haddon Heights,2.0,2
+Lambertville,3.0,9
+Riverton,4.0,3
+Smyrna,3.0,37
+Tucson ,5.0,1
+Overland,3.0,3
+Green Valley,1.5,2
+Greenwood,5.0,13
+Wesley Chapel,4.0,79
+Pennsburg,4.0,1
+Pennsauken Township,3.5,7
+Greenfield,2.0,1
+Wilimington,3.0,1
+New Palestine,3.5,2
+Saint Petersburg,2.5,85
+Plainfield,3.5,28
+Seffner,3.5,13
+Maple Shade,1.5,5
+Old Hickory,5.0,7
+Cane Ridge,2.5,1
+Wenonah,5.0,1
+Southampton ,3.0,1
+Maryland Heights,1.0,1
+Dunedin,2.0,9
+Shiloh,5.0,1
+Frazer,3.0,6
+Conshohocken,1.0,4
+Spanish Springs,2.0,2
+Washington Crossing,3.0,1
+Delran,4.5,8
+Wanamaker,4.5,1
+quakertown,1.5,1
+Essington,4.0,7
+Paulsboro,4.0,2
+Cottage Hills,2.5,1
+Sunset Hills,5.0,1
+Troy,3.0,5
+Woodbury Heights,4.0,3
+Millstadt,3.0,1
+Yeadon,3.5,1
+Spring House,4.0,5
+Thonotosassa,5.0,3
+Dublin,4.5,4
+Cinnaminson,4.0,17
+Saint Charles,5.0,7
+Tuscon,4.5,2
+Upper Chichester,3.0,2
+Pontoon Beach,2.5,1
+Glenmoore,3.5,2
+Plymouth Meeting,4.5,11
+West Berlin,3.5,11
+North Redington Bch,4.5,1
+Fairless Hills,4.0,17
+Fenton,5.0,5
+Wyncote,4.0,4
+Whiteland,3.5,1
+Clearwater,1.0,10
+Meridian,3.0,96
+Villanova,2.0,1
+Oreland,5.0,5
+Nolensville,5.0,4
+Plant City,4.0,30
+Town and Country,3.0,3
+Kirkwood,4.5,27
+New Port Richey,5.0,15
+Perkasie,2.5,3
+Sanatoga,3.0,1
+PHILADELPHIA,2.0,1
+Fishers,3.5,89
+Ridley Park,4.0,6
+Skippack,3.5,14
+Willow Grove,3.5,34
+Clearwater,3.5,281
+Washington Twp,4.0,1
+Penndel,3.0,2
+South Pasadena,2.5,3
+Newportville,4.0,1
+Mt. Juliet,3.0,7
+Mt. Laurel,2.5,8
+Skippack Village,4.5,1
+Horsham,3.5,31
+Nolensville,3.0,9
+Havertown,2.5,9
+Plymouth Meeting,4.0,17
+Temple Terrace,4.5,16
+Ladue,4.0,8
+St. Charles,1.5,5
+Twn N Cntry,4.5,1
+Trinity,4.0,11
+Mt. Juliet,4.0,13
+Hatboro,3.5,25
+Tampa Bay,3.5,10
+Carpinteria,1.5,5
+Town n Country,4.5,1
+Thorndale,3.5,4
+Norwood,5.0,1
+Kuna,3.5,1
+Florence,4.0,1
+Newark,5.0,3
+Abington,3.0,22
+"Eagle,",5.0,1
+Indianapolis,2.0,294
+Chesterbrook,4.0,1
+Riverview,1.0,1
+Bethalto,2.5,1
+Shiloh,2.5,8
+Pennsville,2.5,3
+Boothwyn,4.5,4
+Olivette,2.5,3
+Castleton,2.5,3
+Yeadon,2.5,1
+Belleville,1.5,10
+Montecito,3.5,12
+Washington Crossing,4.0,4
+Clearwater,1.5,43
+Thorndale,1.5,2
+St Louis,4.0,58
+Greenwood,3.5,92
+Aston,5.0,3
+Palm harbor,4.5,1
+Phoenixville,3.0,27
+"Tampa,",4.0,1
+Maplewood,1.5,2
+Bridgeton,4.5,9
+Aston,1.0,1
+Marrero,3.5,11
+Avon,1.5,3
+Creve Coeur,1.0,1
+Moorestown,3.0,16
+Honey Brook,4.5,1
+Marana,1.5,1
+Deptford Township,4.5,2
+King Of Prussia,2.0,13
+Port Richey,4.0,22
+Lebanon,4.5,3
+Spring House,1.5,1
+Pipersville,1.0,1
+Westampton Township,3.5,1
+Belle Chasse,1.0,1
+Magnolia,2.0,1
+Lawrence,2.5,3
+Town & Country,4.5,2
+La Vergne,1.0,2
+St Louis Downtown,3.0,1
+Morton,2.5,3
+Cold Springs,3.5,1
+Gloucester City,4.5,2
+Langhorne,2.0,17
+Ewing,2.0,6
+Brookhaven,4.5,3
+St.Louis,4.5,1
+Webster Groves,1.5,2
+Evesham Township,3.0,6
+Chester Springs,2.5,6
+Pontoon Beach,3.5,1
+Souderton,4.5,14
+St Pete Beach,4.0,18
+Gallatin,3.0,15
+Carneys Point,4.5,1
+Eagle,1.5,3
+Ybor City,4.0,1
+Cahokia,4.5,1
+Westchase,3.5,4
+New Orleans,2.5,228
+Imperial,4.0,4
+Mount Juliet,5.0,7
+Fountainville,2.0,1
+Lionville,2.5,1
+Edwardsville,3.0,30
+New Port Richey,1.5,20
+Pennsburg,2.5,2
+Manayunk,2.5,1
+Elmer,5.0,1
+Richboro,3.0,7
+Mantua,3.0,8
+Clifton Heights,5.0,1
+West Point,4.0,1
+Safety Harbor,3.5,13
+Villanova,4.0,9
+Darby,4.5,1
+Chalfont,2.5,4
+New Hope,5.0,9
+Mt. Juliet,4.5,8
+Rock Hill,2.5,2
+Gentilly,3.0,1
+Eagleville,3.5,5
+Webster Groves,4.5,16
+Mount Holly,1.0,2
+Dunnellon,4.5,1
+Zionsville,3.0,15
+King of Prussia,1.0,2
+Dunedin,5.0,31
+Morton,4.5,2
+Morton,1.0,1
+Trenton,5.0,5
+Wesley Chapel,2.5,60
+Hilltop,4.5,1
+Shiloh,1.5,1
+St. Petersburg,2.0,32
+New Orleans,3.0,438
+Feasterville,4.5,4
+Mount Lemmon,4.5,1
+Saint Ann,4.0,3
+Sun City Center,2.5,7
+Palm Harbor,4.5,83
+Glassboro,4.5,11
+Pedricktown,4.5,1
+Creve Coeur,2.5,19
+Tabernacle,4.0,2
+Manayunk,3.5,3
+Sauget,4.5,1
+St. Albert,4.0,11
+Terrytown,1.0,1
+Oakville,3.5,2
+Avon,3.0,37
+Hatboro,1.0,2
+Warrington Township,5.0,1
+Spring City,3.0,2
+Reno,3.5,687
+Waterloo,3.0,2
+BOISE AP,2.0,1
+Morton,2.0,1
+Claymont,1.0,2
+Oldsmar,2.5,17
+Reno City,2.5,1
+Audubon,5.0,5
+Edmonton,1.0,24
+Clifton Heights,2.5,4
+Roslyn,2.0,1
+Springhill,4.0,1
+Linwood,2.5,1
+Mooresville,3.5,9
+Citrus Park,4.0,1
+Danville,4.0,1
+Speedway,1.5,4
+Hendersonville,3.5,60
+Florissant,2.0,18
+Gibsonton,4.0,10
+Telford,3.0,1
+Claymont,5.0,2
+Fishers,1.5,13
+Belleville,3.0,25
+Granite City,3.5,6
+Kirkwood,3.5,36
+Gulfport,4.0,22
+Fishers,2.5,25
+Boyertown,2.0,1
+Fairview Heights,5.0,1
+Sahuarita,5.0,4
+Kimmswick,3.0,1
+Delaware County,5.0,1
+Goleta,2.5,46
+Sumneytown,4.0,2
+Franklin ,5.0,1
+Villanova,3.0,6
+Beverly,3.5,1
+Perkiomenville,5.0,1
+Kenner,3.5,61
+Cherry Hill,1.0,3
+Mansfield,4.0,1
+Isla Vista,1.5,1
+Sun Valley,2.5,1
+Bridgeton,3.0,29
+Bristol,1.5,4
+Essington,3.0,5
+Mango,3.0,1
+"Indianapolis,",2.5,1
+New Hope,4.0,46
+Oakford,3.0,1
+Wyndmoor,3.5,1
+Hudson,2.5,17
+Treasure Island,3.5,21
+Gwynedd Valley,4.5,1
+Westampton,3.0,5
+Hatboro,2.0,4
+St Louis Downtown,4.0,2
+Chalfont,4.0,12
+Mississauga,4.0,1
+Broomall,2.5,14
+Holiday,3.0,7
+Kennett Square,1.5,2
+Creve Couer,5.0,1
+Trevose,4.0,9
+Ridley,3.0,1
+St.Rose,1.5,1
+Summerland,3.5,4
+Malvern,2.0,3
+Edwardsville,5.0,7
+Southport,3.5,1
+Sun City Center,3.0,5
+Mc Cordsville,1.5,1
+St Petersburg,3.0,31
+Ewing Township,3.5,5
+Saint Peters,4.0,1
+Winchester,4.0,1
+Bear,1.5,1
+Tampa,3.0,741
+Gibbstown,2.0,1
+Clayton,4.5,26
+Boyertown,1.5,1
+Edmonton,1.5,68
+Belleair,5.0,1
+Eagleville,4.0,6
+Penndel,1.0,1
+Burlington,5.0,4
+South Tucson,1.5,1
+tucson,4.5,1
+Telford ,4.5,1
+Havertown,4.5,38
+Narberth,2.0,4
+Limerick,4.5,1
+West Chester,2.0,32
+Yardley,3.0,15
+Clayton,3.5,44
+Gulfport,4.5,22
+Furlong,2.5,1
+East Norriton,3.5,23
+Olivette,4.0,7
+O Fallon,1.5,4
+Nsshville,3.5,1
+Metairie,4.5,171
+Harleysville,5.0,3
+Wynnewood,4.5,6
+Nashville,4.5,1036
+Edgewater Park,3.0,2
+Gretna,1.0,2
+Manayunk,3.0,2
+Skippack,4.5,8
+Westmont,3.0,3
+Green Valley,3.5,10
+Haddon Heights,3.5,5
+Mt.Laurel,2.0,3
+Reno,2.0,229
+Radnor,3.0,3
+Willow Grove,4.0,36
+Speedway,3.0,3
+Newark,3.0,37
+Rock Hill,3.5,2
+Clementon,3.0,8
+Gallatin,1.5,4
+Westmont,2.0,2
+Mantua,2.5,2
+Westwego,1.5,2
+Cherry Hill,5.0,26
+Dresher,4.0,6
+Rockledge,4.0,3
+Barrington,4.0,7
+Feasterville,4.0,3
+Spanish Springs,1.5,1
+Hernando Beach,4.0,6
+Franklin,5.0,58
+Elmer,3.5,3
+Creve Coeur,5.0,8
+Carpinteria,4.0,45
+Newtown,3.5,36
+Bristol,2.5,7
+Pottstown,2.5,33
+High Ridge,4.5,4
+Des Peres,1.0,1
+East Saint Louis,1.5,1
+Glen Mills,3.5,36
+Bayonet Point,2.0,1
+Riverton,4.5,2
+Glen Mills,5.0,2
+South County,4.0,1
+Malvern,5.0,16
+Safety Harbor,3.0,8
+Malvern,4.0,48
+Seffner,1.5,7
+St Louis County,4.0,2
+Affton,3.5,2
+Des Peres,3.5,20
+Fieldsboro,3.5,1
+Tucson,2.5,613
+Sunset Hills,2.5,3
+Gloucester City,3.5,5
+Saint Petersburg,4.0,250
+Town and Country,3.5,4
+St Charles,4.5,16
+Churchville,2.5,1
+Millstadt,1.5,1
+St Petersburg,2.5,27
+Metairie,1.5,33
+Speedway,3.5,9
+Tarpon Springs,1.5,1
+Deptford,1.5,2
+Philadelphia ,4.5,1
+East Boise,2.5,1
+Apollo Beach,2.5,13
+Harleysville,4.5,8
+Thorofare,3.5,1
+Flourtown,4.0,9
+St Pete,3.5,1
+Saint Bernard,4.5,1
+Haddonfield,4.0,29
+Gibbstown,3.0,2
+Metairie,4.0,252
+Jenkintown,2.0,7
+Hainesport,2.0,3
+Williamstown,2.0,5
+Palmetto,3.0,1
+"Feasterville-Trevose, PA",4.5,1
+Kenneth City,3.0,2
+Edmonton,5.0,55
+Kulpsville,2.0,1
+Chester Springs,2.0,3
+Bristol,1.0,4
+Darby,3.5,3
+O'fallon,2.0,1
+Fort Washington,4.5,2
+Saint Albert,4.0,1
+Cerritos,3.0,1
+St. Charles,2.0,5
+Lawrence,4.0,2
+Marrero,4.0,16
+Chadds Ford,2.5,8
+Eagleville,3.0,3
+Westmont,5.0,1
+Valrico,3.5,23
+Beech Grove,5.0,2
+Merchantville,5.0,5
+Jeffersonville,3.5,1
+Avon,5.0,12
+Troy,3.5,7
+Kennett Square,3.0,15
+South Burlington,2.0,1
+Indianapolis,3.0,579
+Willow Grove,5.0,8
+Fort Washington,5.0,1
+Downingtown,3.5,24
+Warrington,2.0,13
+Wrightstown,4.0,1
+Lake Saint Louis,1.5,1
+Pittsgrove,4.0,1
+Metairie ,4.0,1
+Monroeville,4.0,1
+Fairless Hills,2.0,6
+Devon,4.0,7
+O Fallon,4.5,5
+Clarksboro,3.0,1
+Saint Louis,5.0,156
+Shade,4.0,1
+Columbus,2.0,1
+Bala Cynwyd,4.0,29
+Haddon Twp,2.0,2
+Goodlettsville,4.5,23
+Mount Holly,5.0,6
+Radnor,2.5,2
+Maplewood,2.5,15
+Ewing Township,4.5,7
+Columbus,4.0,7
+Treasure Island,1.5,1
+Alloway,3.5,1
+Schwenksville,3.0,3
+Wallingford,3.0,1
+Broomall,1.0,3
+St. Albert,3.5,7
+Somerdale,4.0,5
+Morrisville,2.5,6
+Swarthmore,4.5,7
+Wynnewood,2.5,11
+West Deptford,3.5,6
+Odessa,4.5,23
+Garden City,3.0,11
+St Albert,3.5,10
+Haddonfield,2.5,5
+Carpinteria,5.0,36
+Newark,4.5,17
+Blackwood ,3.5,1
+Saint Leo,3.5,1
+Palmetto,1.5,1
+Bucktown,4.5,1
+St Petersburg,3.5,61
+Erdenheim,4.5,1
+O'fallon,4.5,1
+Ruskin,2.5,8
+Morrisville,2.0,6
+Berlin,4.5,12
+Boise,2.0,83
+Blackwood,3.5,12
+Troy,4.0,6
+Toughkenamon,4.5,2
+Lansdowne,2.0,2
+Hadden,4.5,1
+Maple Glen,4.0,4
+Nashville,1.0,37
+Vincentown,4.5,1
+Eastampton Township,3.0,1
+Gibbsboro,2.0,1
+RIVERVIEW,2.0,1
+Kuna,2.5,1
+Riverton,3.5,3
+Manayunk,5.0,1
+Paoli,3.5,18
+Lima,2.0,1
+Eagle,3.0,20
+Westchase,2.0,1
+Casa Adobes,3.0,1
+Hulmeville,4.0,2
+Godfrey,3.5,3
+Elkins Park,1.5,2
+Madeira Beach,2.0,3
+Limerick,3.0,8
+Talleyville,3.0,2
+Glenside,3.0,13
+Belmont Hills,1.5,1
+Philadephia,4.0,1
+Monchanin,4.0,1
+Valley Park,4.5,15
+Goleta,5.0,58
+Swedesboro,3.0,9
+Sun City Center,5.0,1
+Claymont,1.5,4
+Saint Petersburg,2.0,57
+Southampton,2.5,7
+Westtown,4.0,1
+Glenside,3.5,25
+Goleta,3.5,106
+Olivette,3.5,3
+Pinellas,2.5,1
+New Whiteland,4.5,1
+New Port Richey,4.5,68
+Plant City,4.5,29
+Willingboro,1.5,2
+Reno ,5.0,1
+Mantua,4.5,3
+University Park,4.0,1
+Goodlettsville,3.0,21
+Glen Carbon,2.0,7
+Milmont Park,3.0,1
+Willow Grove,2.0,34
+Sun Valley,4.0,6
+Brookhaven,4.0,6
+Vail,4.5,6
+NEW ORLEANS AP,1.5,1
+Green Valle,3.0,1
+Glenside,4.0,34
+Crestwood,3.5,2
+Claymont,2.5,2
+Sicklerville,3.5,22
+Warrington,1.0,1
+Brentwood,3.5,127
+Tinicum Township,3.0,1
+Collegeville,1.0,2
+Plainfiled,3.0,1
+Goleta,1.0,5
+Chadds Ford,4.5,16
+Wayne,5.0,16
+Spanish Springs,3.0,4
+Sellersville,3.5,9
+Mantua,2.0,1
+Bryn Mawr,5.0,10
+Indian Shores,5.0,3
+West Collingswood Heights,3.5,1
+Haverford,3.5,8
+Bridgeport,4.5,6
+Yardley,5.0,7
+Aston,3.0,12
+Santa Barbara,2.0,84
+Kennett Square,4.5,28
+Valrico,2.0,12
+Pitman,2.5,2
+Glen Mills,2.5,13
+Whitestown,4.0,5
+Whitestown,3.0,5
+Gibsonton,3.5,2
+Philadelphia,1.5,274
+St Albert,1.5,1
+Beech Grove,2.5,1
+Bordentown,1.5,4
+Pine Hill,2.0,1
+Gulfport,5.0,7
+Sparks,5.0,107
+Pipersville,4.0,5
+Bellmawr,3.5,5
+St Louis,5.0,14
+Elsmere,4.0,1
+Glenmoore,4.5,1
+Paulsboro,3.5,3
+Mt Laurel,2.0,2
+St. Petersburg,4.5,181
+Mount Laurel Township,1.0,1
+Bridgeport,2.5,2
+Woolwich Twp.,3.5,1
+Warminster,3.0,26
+Shiloh,4.5,4
+Paoli,2.5,5
+West Edmonton,2.0,1
+Ewing,3.0,13
+HENDERSONVILLE,5.0,1
+Belle Chasse,4.0,7
+South Pasadena,3.0,1
+West Deptford,2.5,2
+Wenonah,4.5,2
+Whitestown,2.0,3
+Montgomeryville,2.5,6
+Largo,1.5,22
+Saint Ann,3.5,8
+West Chester,4.5,100
+Brownsburg,2.5,18
+East Falls,4.5,1
+Montgomeryville,1.5,4
+Lawnside,2.0,1
+Avondale,4.0,5
+VALRICO,4.0,1
+West Chester,1.5,17
+Pennsauken Township,2.0,2
+Fairview Heights,4.0,19
+Drexel Hill,3.0,11
+Smyrna,1.0,2
+Dover,2.0,3
+Edwardsville,4.0,38
+Temple Terrace,1.5,7
+Merion Station,4.5,3
+Riverview,2.5,45
+Tinicum,4.5,1
+Wilmington,4.5,151
+Zieglerville,3.5,1
+Holicong,3.5,2
+Berry Hill,4.5,2
+Caseyville,2.5,2
+St Pete beach,5.0,1
+Perkasie,2.0,2
+Lebanon,2.5,3
+Rosemont,1.0,1
+Clayton,4.0,42
+Parker Ford,3.5,1
+Kirkwood,3.0,20
+Woodbury,5.0,2
+St. Albert,2.5,2
+Bridgeport,3.5,5
+Woodlyn,3.0,3
+Clifton Heights,3.0,8
+Sharon Hill,3.5,1
+Meridian,4.5,136
+Saint Pete Beach,4.0,15
+Sicklerville,1.0,2
+New Orleans,3.5,823
+Belleville,5.0,5
+Valrico,5.0,11
+Sparks,3.0,151
+Ferguson,4.0,9
+Edmonton,2.0,144
+Arabi,4.0,2
+Land O Lakes,2.0,4
+Normandy,4.0,1
+Mc Cordsville,4.0,1
+Chester,4.5,3
+Tampa,4.5,1220
+Blue Bell,2.5,14
+Maryville,2.5,6
+Glen Carbon,1.0,2
+Frazer,4.0,4
+Audubon,4.0,13
+Erdenheim,3.0,2
+Jamison,3.5,6
+Saint Rose,2.5,2
+Levittown,1.5,13
+Clearwater Beach,4.0,38
+Oaks,3.0,9
+Isla Vista,3.5,18
+Smithton,1.0,1
+Carpinteria,4.5,53
+Gibbstown,2.5,1
+Cahokia,2.0,1
+Covington,5.0,1
+Levittown,5.0,6
+Glendora,4.5,6
+Oreland,4.5,2
+North Wales,4.0,25
+Wilmington,3.5,188
+Newtown Square,3.0,22
+Apollo Beach,2.0,4
+Spanish Springs,5.0,3
+Almonesson,4.0,1
+Lower Southampton Township,4.0,1
+Broomall,4.0,19
+St. Leo,4.0,1
+Sun City Center,1.5,3
+East St Louis,4.0,2
+Collingswood,2.5,9
+Chesterbrook,4.5,1
+Macdill Afb,2.0,1
+Jefferson,5.0,1
+Truckee,5.0,3
+South Tampa,4.0,2
+Plymouth Meeting,5.0,4
+Haverton,3.5,1
+Gretna,2.0,12
+ST LOUIS,3.5,1
+Madeira Beach,4.5,34
+chicago,4.0,1
+Greenwood,2.0,35
+Nolensville,4.0,23
+Franklinville,4.5,1
+Noblesville,2.5,4
+St. Petersburg,3.5,149
+Alton,3.5,18
+Breckenridge Hills,3.5,1
+Eastampton Township,4.0,1
+Redingtn Shor,4.0,1
+Shamong,3.5,1
+Treasure Is,3.5,1
+Plymouth Township,3.5,1
+Lionville,3.0,1
+Santa Barbara,3.0,230
+Turnersville,4.5,8
+Clayton,1.5,3
+Clearwater,5.0,96
+McCordsville,1.5,1
+St.Louis,2.5,2
+Warminster,4.0,27
+Richmond Heights,2.0,2
+King of Prussia,4.0,69
+Palm Harbor,1.5,9
+National Park,3.5,1
+Furlong,3.5,2
+South Roxana,5.0,1
+Belleair Bluffs,3.5,5
+Downtown,4.5,1
+Eastampton,4.5,1
+Greenwood,2.5,33
+Aston,3.5,15
+Vincentown,3.0,1
+Willingboro,3.0,4
+Thorndale,4.5,1
+Cherry Hil,4.5,1
+Southampton Township,2.5,1
+Eddystone,2.0,2
+Kennett Square,2.0,4
+Newtown,2.0,14
+Lumberton,4.5,1
+Franklin,2.0,58
+Haverford,5.0,4
+St. Petersburg,1.5,21
+N Redngtn Bch,3.5,1
+Palmyra,1.5,1
+Dublin,3.0,1
+Trappe,2.5,1
+Land O Lakes,3.5,12
+TUCSON,2.0,1
+Whites Creek,5.0,1
+Glassboro,4.0,18
+Southwest Philadelphia,2.5,2
+Collingdale,4.5,4
+O'Fallon,3.5,24
+Lambertville,5.0,7
+Fallsington,4.5,1
+Paulsboro,2.5,3
+Mt Laurel,2.5,4
+Bellair,4.5,1
+Cedar Brook,4.0,1
+Columbia,5.0,3
+Vincentown,4.0,2
+Harahan,3.0,24
+Montgomeryville,4.0,10
+Sherwood,3.5,1
+Oreland,4.0,5
+INpolis,3.5,1
+Mont Clare,4.5,2
+Jennings,2.5,1
+Fairview Heights,3.5,22
+Carrollwood,3.5,2
+Newton,3.5,1
+land o lakes,4.5,1
+Scott Afb,3.0,1
+Johnson,3.5,1
+Hainesport,3.0,8
+Largo,2.5,57
+Tampa Florida,3.5,1
+Cottage Hills,4.0,1
+Landsale,3.5,1
+Gibsonton,2.0,2
+Blackwood,2.5,6
+Maplewood,2.0,4
+White House,2.0,4
+Villanova,2.5,1
+Carrollwood,2.5,1
+Lenni,4.5,1
+Moorestown,2.5,16
+Woodbury Hts.,1.5,1
+Webster Groves,4.0,18
+W Cherry Hill,3.0,1
+St.Louis,2.0,2
+Brookhaven,2.5,10
+Mt Laurel,1.5,2
+Merion Station,1.5,1
+Feasterville,5.0,4
+Zephyrhills,5.0,9
+Somerdale,1.5,2
+Camden,2.5,4
+Pennsville,3.0,3
+La Vergne,4.5,10
+Hainesport,4.5,5
+Flourtown,3.5,8
+Columbia,4.5,6
+Marlton,1.5,4
+Burlington,3.5,25
+Royersford,3.5,21
+Maple Shade Township,2.5,3
+Arnold,1.0,1
+philadelphia,4.0,2
+Sparks,2.5,107
+Tampa,4.0,1379
+Claymont,3.0,10
+Dover,2.5,1
+Palmyra,5.0,2
+Paoli,2.0,4
+Somerdale,2.0,1
+Penndel,4.0,3
+River Ridge,2.0,2
+New Washoe City,5.0,1
+Mt Juliet,4.5,3
+Malvern,3.0,35
+Sauget,2.5,4
+Downtown Indianapolis,4.5,1
+Haverford,2.5,1
+Pilesgrove,4.5,1
+Jamison,2.5,3
+Gloucester Township,3.5,6
+meridian,4.5,1
+Harvey,1.0,3
+TAMPA,3.0,2
+Levittown,4.5,26
+Norwood,3.5,1
+Arabi,2.5,1
+Wilmington,5.0,32
+Ashland City,3.5,2
+Perkasie,3.5,10
+Upper Southampton,4.5,1
+Harleysville,2.5,6
+Seminole,4.5,41
+Chesilhurst,3.5,1
+St Albert,2.0,3
+Dresher,2.0,4
+Chester Township,4.5,1
+Woodlyn,4.5,3
+San Anselmo,4.5,1
+Wynnewood,3.5,11
+Jefferson,2.0,6
+Marlton,2.5,19
+Bristol,4.5,17
+Ferguson,1.5,1
+Huntingdon Valley,1.0,2
+Jenkintown,1.5,4
+Saint Louis,2.0,1
